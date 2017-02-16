@@ -1,0 +1,775 @@
+[
+    {
+        "outputFile": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 62,
+                    "endOffset": 113
+                },
+                "from": {
+                    "file": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/values/attrs.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1870,
+                        "endColumn": 63,
+                        "endOffset": 1929
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 118,
+                    "endColumn": 39,
+                    "endOffset": 153
+                },
+                "from": {
+                    "file": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 107,
+                        "endColumn": 36,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 158,
+                    "endColumn": 49,
+                    "endOffset": 203
+                },
+                "from": {
+                    "file": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 49,
+                        "endOffset": 104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 208,
+                    "endColumn": 38,
+                    "endOffset": 242
+                },
+                "from": {
+                    "file": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 290,
+                        "endColumn": 38,
+                        "endOffset": 324
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 247,
+                    "endColumn": 63,
+                    "endOffset": 306
+                },
+                "from": {
+                    "file": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/values/colors_morpheusfullscreentheme.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 63,
+                        "endOffset": 114
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 311,
+                    "endColumn": 45,
+                    "endOffset": 352
+                },
+                "from": {
+                    "file": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 243,
+                        "endColumn": 45,
+                        "endOffset": 284
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 357,
+                    "endColumn": 46,
+                    "endOffset": 399
+                },
+                "from": {
+                    "file": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 1,
+                        "startOffset": 145,
+                        "endColumn": 43,
+                        "endOffset": 187
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 404,
+                    "endColumn": 47,
+                    "endOffset": 447
+                },
+                "from": {
+                    "file": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 194,
+                        "endColumn": 47,
+                        "endOffset": 237
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 452,
+                    "endColumn": 43,
+                    "endOffset": 491
+                },
+                "from": {
+                    "file": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 1,
+                        "startOffset": 365,
+                        "endColumn": 40,
+                        "endOffset": 404
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 496,
+                    "endColumn": 39,
+                    "endOffset": 531
+                },
+                "from": {
+                    "file": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 1,
+                        "startOffset": 327,
+                        "endColumn": 36,
+                        "endOffset": 362
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 4104,
+                    "endColumn": 57,
+                    "endOffset": 4157
+                },
+                "from": {
+                    "file": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 225,
+                        "endColumn": 57,
+                        "endOffset": 278
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 4162,
+                    "endColumn": 55,
+                    "endOffset": 4213
+                },
+                "from": {
+                    "file": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 284,
+                        "endColumn": 55,
+                        "endOffset": 335
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 4218,
+                    "endColumn": 49,
+                    "endOffset": 4263
+                },
+                "from": {
+                    "file": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 174,
+                        "endColumn": 49,
+                        "endOffset": 219
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 4268,
+                    "endColumn": 54,
+                    "endOffset": 4318
+                },
+                "from": {
+                    "file": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 118,
+                        "endColumn": 54,
+                        "endOffset": 168
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 4323,
+                    "endColumn": 42,
+                    "endOffset": 4361
+                },
+                "from": {
+                    "file": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/values/ids.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 42,
+                        "endOffset": 93
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 4366,
+                    "endColumn": 52,
+                    "endOffset": 4414
+                },
+                "from": {
+                    "file": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 394,
+                        "endColumn": 52,
+                        "endOffset": 442
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 4419,
+                    "endColumn": 47,
+                    "endOffset": 4462
+                },
+                "from": {
+                    "file": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 448,
+                        "endColumn": 47,
+                        "endOffset": 491
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 4467,
+                    "endColumn": 45,
+                    "endOffset": 4508
+                },
+                "from": {
+                    "file": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 45,
+                        "endOffset": 100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 4513,
+                    "endColumn": 44,
+                    "endOffset": 4553
+                },
+                "from": {
+                    "file": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/exploded-aar/com.makeramen/roundedimageview/2.3.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1103,
+                        "endColumn": 44,
+                        "endOffset": 1143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 4558,
+                    "endColumn": 53,
+                    "endOffset": 4607
+                },
+                "from": {
+                    "file": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 106,
+                        "endColumn": 53,
+                        "endOffset": 155
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 4612,
+                    "endColumn": 56,
+                    "endOffset": 4664
+                },
+                "from": {
+                    "file": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 161,
+                        "endColumn": 56,
+                        "endOffset": 213
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 4669,
+                    "endColumn": 52,
+                    "endOffset": 4717
+                },
+                "from": {
+                    "file": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 497,
+                        "endColumn": 52,
+                        "endOffset": 545
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 4722,
+                    "endColumn": 68,
+                    "endOffset": 4786
+                },
+                "from": {
+                    "file": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/exploded-aar/com.makeramen/roundedimageview/2.3.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1148,
+                        "endColumn": 68,
+                        "endOffset": 1212
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 4791,
+                    "endColumn": 93,
+                    "endOffset": 4880
+                },
+                "from": {
+                    "file": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/exploded-aar/com.makeramen/roundedimageview/2.3.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1217,
+                        "endColumn": 93,
+                        "endOffset": 1306
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 4885,
+                    "endColumn": 70,
+                    "endOffset": 4951
+                },
+                "from": {
+                    "file": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/exploded-aar/com.makeramen/roundedimageview/2.3.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1311,
+                        "endColumn": 70,
+                        "endOffset": 1377
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 4956,
+                    "endColumn": 203,
+                    "endOffset": 5155
+                },
+                "from": {
+                    "file": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/exploded-aar/com.makeramen/roundedimageview/2.3.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1382,
+                        "endColumn": 203,
+                        "endOffset": 1581
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 5160,
+                    "endColumn": 81,
+                    "endOffset": 5237
+                },
+                "from": {
+                    "file": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/exploded-aar/com.makeramen/roundedimageview/2.3.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1586,
+                        "endColumn": 81,
+                        "endOffset": 1663
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 5242,
+                    "endColumn": 73,
+                    "endOffset": 5311
+                },
+                "from": {
+                    "file": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/exploded-aar/com.makeramen/roundedimageview/2.3.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1668,
+                        "endColumn": 73,
+                        "endOffset": 1737
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 5316,
+                    "endColumn": 111,
+                    "endOffset": 5423
+                },
+                "from": {
+                    "file": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/exploded-aar/com.makeramen/roundedimageview/2.3.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1742,
+                        "endColumn": 111,
+                        "endOffset": 1849
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 5428,
+                    "endColumn": 73,
+                    "endOffset": 5497
+                },
+                "from": {
+                    "file": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/exploded-aar/com.makeramen/roundedimageview/2.3.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1854,
+                        "endColumn": 73,
+                        "endOffset": 1923
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 5502,
+                    "endColumn": 115,
+                    "endOffset": 5613
+                },
+                "from": {
+                    "file": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/exploded-aar/com.makeramen/roundedimageview/2.3.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1928,
+                        "endColumn": 115,
+                        "endOffset": 2039
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 5618,
+                    "endColumn": 55,
+                    "endOffset": 5669
+                },
+                "from": {
+                    "file": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 272,
+                        "endColumn": 55,
+                        "endOffset": 323
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 5674,
+                    "endColumn": 51,
+                    "endOffset": 5721
+                },
+                "from": {
+                    "file": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 219,
+                        "endColumn": 51,
+                        "endOffset": 266
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 5726,
+                    "endColumn": 63,
+                    "endOffset": 5785
+                },
+                "from": {
+                    "file": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 329,
+                        "endColumn": 63,
+                        "endOffset": 388
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 5790,
+                    "endLine": 70,
+                    "endColumn": 12,
+                    "endOffset": 6077
+                },
+                "from": {
+                    "file": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 234,
+                        "endLine": 15,
+                        "endColumn": 12,
+                        "endOffset": 528
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 6082,
+                    "endLine": 73,
+                    "endColumn": 12,
+                    "endOffset": 6237
+                },
+                "from": {
+                    "file": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 569,
+                        "endLine": 20,
+                        "endColumn": 12,
+                        "endOffset": 726
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 6242,
+                    "endColumn": 35,
+                    "endOffset": 6273
+                },
+                "from": {
+                    "file": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 734,
+                        "endColumn": 36,
+                        "endOffset": 766
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 6278,
+                    "endColumn": 84,
+                    "endOffset": 6358
+                },
+                "from": {
+                    "file": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/values/themes_morpheusfullscreentheme.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 2,
+                        "startOffset": 169,
+                        "endColumn": 82,
+                        "endOffset": 249
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 6363,
+                    "endLine": 85,
+                    "endColumn": 10,
+                    "endOffset": 7074
+                },
+                "from": {
+                    "file": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/values/styles_morpheusfullscreentheme.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 2,
+                        "startOffset": 169,
+                        "endLine": 14,
+                        "endColumn": 10,
+                        "endOffset": 880
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 7079,
+                    "endLine": 90,
+                    "endColumn": 10,
+                    "endOffset": 7254
+                },
+                "from": {
+                    "file": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/values/themes_morpheusfullscreentheme.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 2,
+                        "startOffset": 253,
+                        "endLine": 11,
+                        "endColumn": 10,
+                        "endOffset": 428
+                    }
+                }
+            }
+        ]
+    }
+]

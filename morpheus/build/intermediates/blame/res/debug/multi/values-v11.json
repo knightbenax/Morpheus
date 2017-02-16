@@ -1,0 +1,49 @@
+[
+    {
+        "outputFile": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 181
+                },
+                "from": {
+                    "file": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/values-v11/styles.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 225,
+                        "endLine": 10,
+                        "endColumn": 12,
+                        "endOffset": 353
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 186,
+                    "endLine": 7,
+                    "endColumn": 12,
+                    "endOffset": 345
+                },
+                "from": {
+                    "file": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/values-v11/styles.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 6,
+                        "startOffset": 363,
+                        "endLine": 14,
+                        "endColumn": 12,
+                        "endOffset": 524
+                    }
+                }
+            }
+        ]
+    }
+]

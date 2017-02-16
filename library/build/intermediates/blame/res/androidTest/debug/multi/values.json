@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/library/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1008,
+                    "endColumn": 42,
+                    "endOffset": 1046
+                },
+                "from": {
+                    "file": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/library/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1008,
+                        "endColumn": 42,
+                        "endOffset": 1046
+                    }
+                }
+            }
+        ]
+    }
+]

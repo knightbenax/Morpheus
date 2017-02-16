@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/library/src/main/assets"/><source path="/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/library/build/generated/assets/shaders/release"/></dataSet><dataSet config="release"><source path="/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/library/src/release/assets"/></dataSet></merger>

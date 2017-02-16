@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="23"
+    density="xhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="32763513203043"
+    token="5019049848782232884"
+    verifier="FIELD_TYPE_CHANGE" >
+
+    <task
+        name="javac"
+        duration="2560" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="287" />
+    <task
+        name="verifier"
+        duration="89" />
+
+    <artifact
+        location="/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+        type="RESOURCES" />
+    <artifact
+        location="/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
+        type="DEX" />
+
+    <build
+        timestamp="30523483288658"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/outputs/apk/morpheus-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="32763513203043"
+        verifier="FIELD_TYPE_CHANGE" >
+        <artifact
+            location="/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>

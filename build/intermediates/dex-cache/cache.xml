@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/exploded-aar/Morpheus/library/unspecified/jars/libs/android-support-v4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.1"
+        sha1="15c03170be6fbbb27ca5bae0eb284fef5755253a">
+        <dex dex="/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/transforms/dex/debug/folders/1000/8/android-support-v4_e8b8a0577d943ab2c087e214f4f4366871148aa7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.1"
+        sha1="4a86d3389a8d4a9f96f4166d8e5f759524a90249">
+        <dex dex="/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_bf8f6d2f8a4326d10f8fd7e4d12ea7f4656c44b7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.1"
+        sha1="660e7f2c26eb6ab684eee99729f3e64965a4643f">
+        <dex dex="/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_cfa0e2030e9c8a69cc18fd09ee52783bcc11fe31/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/exploded-aar/com.makeramen/roundedimageview/2.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.1"
+        sha1="fbaffbfc2a42fce3718dc9f52182810ad332b0ec">
+        <dex dex="/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/transforms/dex/debug/folders/1000/10/com.makeramen-roundedimageview-2.3.0_defd06b9c4b8ef3d5376a5417ecb27c9fc34fb1b/classes.dex" />
+    </item>
+
+</items>

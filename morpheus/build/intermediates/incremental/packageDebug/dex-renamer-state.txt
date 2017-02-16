@@ -1,0 +1,7 @@
+#Thu Feb 16 15:28:34 WAT 2017
+base.0=/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_cfa0e2030e9c8a69cc18fd09ee52783bcc11fe31
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_bf8f6d2f8a4326d10f8fd7e4d12ea7f4656c44b7/classes.dex
+base.1=/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_bf8f6d2f8a4326d10f8fd7e4d12ea7f4656c44b7
+file.0=/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_cfa0e2030e9c8a69cc18fd09ee52783bcc11fe31/classes.dex

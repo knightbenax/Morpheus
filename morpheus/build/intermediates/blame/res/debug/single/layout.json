@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/layout/slidingmenumain.xml",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/exploded-aar/Morpheus/library/unspecified/res/layout/slidingmenumain.xml"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/layout/playlist.xml",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/layout/playlist.xml"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/layout/activity_now_playing.xml",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/layout/activity_now_playing.xml"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/layout/album_item.xml",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/layout/album_item.xml"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/layout/musiclibary.xml",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/layout/musiclibary.xml"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/layout/activity_about.xml",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/layout/activity_about.xml"
+    }
+]

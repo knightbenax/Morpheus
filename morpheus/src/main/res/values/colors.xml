@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black_overlay">#66000000</color>
+	<color name="black">#000000</color>
+	<color name="purple_light">#a276eb</color> 
+    <color name="purple_middle">#8658ce</color>
+    <color name="purple_dark">#6a3ab2</color>
+    <color name="gray">#bbbbbb</color>
+	<color name="white">#111111</color>
+	<color name="realwhite">#ffffff</color>
+	
+</resources>

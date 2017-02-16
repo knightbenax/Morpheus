@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Morpheus</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="nowplaying">Now\nPlaying</string>
+    <string name="musiclibrary">Music\nLibrary</string>
+    <string name="title_activity_about">About Morpheus</string>
+    <string name="action_settings">Settings</string>
+    <string name="albumCover">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/raw/test.mp3",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/raw/test.mp3"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/raw/workaround_1min.mp3",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/raw/workaround_1min.mp3"
+    }
+]

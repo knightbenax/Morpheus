@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-hdpi-v4/appbg.xml",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-hdpi/appbg.xml"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg.jpg",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-hdpi/bg.jpg"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-hdpi-v4/aboutbg.jpg",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-hdpi/aboutbg.jpg"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-hdpi-v4/albumartnone.jpg",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-hdpi/albumartnone.jpg"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-hdpi-v4/stub.jpg",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-hdpi/stub.jpg"
+    }
+]

@@ -1,0 +1,91 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/AndroidManifest.xml:2:1-46:12
+	package
+		ADDED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/AndroidManifest.xml:3:5-33
+		INJECTED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/AndroidManifest.xml
+		INJECTED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/AndroidManifest.xml:6:5-30
+		INJECTED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/AndroidManifest.xml
+		INJECTED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/AndroidManifest.xml
+		INJECTED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/AndroidManifest.xml:5:5-35
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/AndroidManifest.xml:8:5-68
+	android:name
+		ADDED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/AndroidManifest.xml:8:22-65
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/AndroidManifest.xml:9:5-96
+	android:name
+		ADDED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/AndroidManifest.xml:9:22-77
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/AndroidManifest.xml:10:22-77
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/AndroidManifest.xml:11:5-71
+	android:name
+		ADDED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/AndroidManifest.xml:11:22-68
+uses-sdk
+ADDED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/AndroidManifest.xml:13:5-15:41
+MERGED from [Morpheus:library:unspecified] /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/exploded-aar/Morpheus/library/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [com.makeramen:roundedimageview:2.3.0] /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/exploded-aar/com.makeramen/roundedimageview/2.3.0/AndroidManifest.xml:7:5-43
+	android:targetSdkVersion
+		ADDED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/AndroidManifest.xml:15:9-38
+		INJECTED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/AndroidManifest.xml
+		INJECTED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/AndroidManifest.xml:14:9-35
+		INJECTED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/AndroidManifest.xml
+		INJECTED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/AndroidManifest.xml
+application
+ADDED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/AndroidManifest.xml:17:5-44:19
+	android:label
+		ADDED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/AndroidManifest.xml:20:9-41
+	android:allowBackup
+		ADDED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/AndroidManifest.xml:18:9-35
+	android:icon
+		ADDED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/AndroidManifest.xml:19:9-45
+	android:theme
+		ADDED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/AndroidManifest.xml:22:9-55
+activity#com.ephod.morpheus.NowPlayingActivity
+ADDED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/AndroidManifest.xml:23:9-36:20
+	android:screenOrientation
+		ADDED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/AndroidManifest.xml:28:13-49
+	android:label
+		ADDED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/AndroidManifest.xml:26:13-45
+	android:launchMode
+		ADDED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/AndroidManifest.xml:27:13-43
+	android:configChanges
+		ADDED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/AndroidManifest.xml:25:13-74
+	android:theme
+		ADDED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/AndroidManifest.xml:30:13-59
+	android:name
+		ADDED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/AndroidManifest.xml:24:13-65
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/AndroidManifest.xml:31:13-35:29
+action#android.intent.action.MAIN
+ADDED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/AndroidManifest.xml:34:27-74
+service#com.ephod.morpheus.MorpheusService
+ADDED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/AndroidManifest.xml:38:9-70
+	android:name
+		ADDED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/AndroidManifest.xml:38:18-67
+activity#com.ephod.morpheus.AboutActivity
+ADDED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/AndroidManifest.xml:40:9-43:20
+	android:label
+		ADDED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/AndroidManifest.xml:42:13-57
+	android:name
+		ADDED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/AndroidManifest.xml:41:13-60

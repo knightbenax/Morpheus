@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Generated with http://android-holo-colors.com -->
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <style name="MorpheusFullscreenTheme" parent="@style/_MorpheusFullscreenTheme"/>
+
+  <style name="_MorpheusFullscreenTheme" parent="android:Theme.Holo.NoActionBar">
+
+    <item name="android:seekBarStyle">@style/SeekBarMorpheusFullscreenTheme</item>
+
+  </style>
+
+</resources>

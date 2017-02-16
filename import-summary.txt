@@ -1,0 +1,109 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Risky Project Location:
+-----------------------
+The tools *should* handle project locations in any directory. However,
+due to bugs, placing projects in directories containing spaces in the
+path, or characters like ", ' and &, have had issues. We're working to
+eliminate these bugs, but to save yourself headaches you may want to
+move your project to a location where this is not a problem.
+C:\Users\Knightbenax\Desktop\Metro Station\Apps\Morpheus - Android Studio
+                                  -                     - -       -      
+
+Manifest Merging:
+-----------------
+Your project uses libraries that provide manifests, and your Eclipse
+project did not explicitly turn on manifest merging. In Android Gradle
+projects, manifests are always merged (meaning that contents from your
+libraries' manifests will be merged into the app manifest. If you had
+manually copied contents from library manifests into your app manifest
+you may need to remove these for the app to build correctly.
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+From Morpheus:
+* 2147486641\
+* 2147486641\001.ai
+* 2147486641\001size.jpg
+* 2147486641\License.txt
+* 2147486641\glass.png
+* Flaticon_PNGFiles\
+* Flaticon_PNGFiles\light38.png
+* Flaticon_PNGFiles\morpheusfullscreentheme_scrubber_control_disabled_holo.png
+* Flaticon_PNGFiles\morpheusfullscreentheme_scrubber_control_focused_holo.png
+* Flaticon_PNGFiles\morpheusfullscreentheme_scrubber_control_normal_holo.png
+* Flaticon_PNGFiles\morpheusfullscreentheme_scrubber_control_pressed_holo.png
+* HelperImages\
+* HelperImages\$(KGrHqR,!gwFB)C-S!PfBQfHRthjLg~~60_35.JPG
+* HelperImages\2147486641\
+* HelperImages\2147486641\001.ai
+* HelperImages\2147486641\001size.jpg
+* HelperImages\2147486641\License.txt
+* HelperImages\2147486641\glass.png
+* HelperImages\Bg.psd
+* HelperImages\Flaticon_10281.png
+* HelperImages\Flaticon_18151.png
+* HelperImages\Flaticon_3733.png
+* HelperImages\HideNavigationUIcode
+* HelperImages\ToDo.txt
+* HelperImages\android-support-v4.jar
+* HelperImages\backwardbutton.png
+* HelperImages\black-32390.png
+* HelperImages\disc-158357.png
+* HelperImages\forwardbutton.png
+* HelperImages\ic_launcher-web.png
+* HelperImages\light38.png
+* HelperImages\logo.psd
+* HelperImages\morpheusicon.png
+* HelperImages\morpheusiconii.png
+* HelperImages\pausebutton.png
+* HelperImages\playbutton.png
+* HelperImages\playbutton.psd
+* HelperImages\psd-headphones.psd
+* HelperImages\specs_eps.zip
+* HelperImages\thumb_COLOURBOX8735043.jpg
+* Thumbs.db
+* ToDo.txt
+* ic_launcher-web.png
+* proguard-project.txt
+From library:
+* LICENSE.txt
+* library.iml
+* pom.xml
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+In library:
+* AndroidManifest.xml => library\src\main\AndroidManifest.xml
+* libs\android-support-v4.jar => library\libs\android-support-v4.jar
+* res\ => library\src\main\res\
+* src\ => library\src\main\java\
+In Morpheus:
+* AndroidManifest.xml => morpheus\src\main\AndroidManifest.xml
+* assets\ => morpheus\src\main\assets\
+* libs\android-support-v4.jar => morpheus\libs\android-support-v4.jar
+* res\ => morpheus\src\main\res\
+* src\ => morpheus\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)
