@@ -191,7 +191,7 @@ public class VisualizerView extends View {
 
         if(mCanvasBitmap == null)
         {
-            mCanvasBitmap = Bitmap.createBitmap(canvas.getWidth(), canvas.getHeight(), Config.ARGB_8888);
+            mCanvasBitmap = Bitmap.createBitmap(canvas.getWidth(), canvas.getHeight() + 60, Config.ARGB_8888);
         }
         if(mCanvas == null)
         {

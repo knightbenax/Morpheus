@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/library/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v18/values-v18.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "/Users/knightbenax/.android/build-cache/2dc13d82337b3c4474770cdbc2127431bb3dae42/output/res/values-v18/values-v18.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 48,
+                        "endOffset": 99
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -33,18 +33,22 @@ import android.media.MediaMetadataRetriever;
 import android.media.MediaPlayer;
 import android.media.MediaPlayer.OnSeekCompleteListener;
 import android.net.Uri;
+import android.os.Build;
 import android.os.Bundle;
 import android.os.Environment;
 import android.os.Handler;
 import android.os.IBinder;
 import android.os.PowerManager.WakeLock;
 import android.provider.MediaStore;
+import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.util.TypedValue;
 import android.view.Gravity;
 import android.view.KeyEvent;
 import android.view.MenuItem;
 import android.view.View;
+import android.view.Window;
+import android.view.WindowManager;
 import android.widget.AdapterView;
 import android.widget.AdapterView.OnItemClickListener;
 import android.widget.Button;
@@ -68,7 +72,7 @@ import com.jeremyfeinstein.slidingmenu.lib.app.SlidingActivity;
  * 
  * @see SystemUiHider
  */
-public class NowPlayingActivity extends SlidingActivity implements OnSeekCompleteListener, CircularSeekBar.OnCircularSeekBarChangeListener {
+public class NowPlayingActivity extends AppCompatActivity implements OnSeekCompleteListener, CircularSeekBar.OnCircularSeekBarChangeListener {
 	WakeLock wakeLock;
 	MediaMetadataRetriever metaRetriever;
     MediaMetadataRetriever album_artRetriever;
@@ -112,7 +116,7 @@ public class NowPlayingActivity extends SlidingActivity implements OnSeekComplet
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_now_playing);
-		setBehindContentView(R.layout.musiclibary);
+		//setBehindContentView(R.layout.musiclibary);
 		
 		rootView = getWindow().getDecorView();
 		
@@ -130,7 +134,7 @@ public class NowPlayingActivity extends SlidingActivity implements OnSeekComplet
 	    //setVolumeControlStream(AudioManager.STREAM_MUSIC);
 	    //PowerManager powerManager = (PowerManager) getSystemService(Context.POWER_SERVICE);
 	    //wakeLock = powerManager.newWakeLock(PowerManager.FULL_WAKE_LOCK, "Morpheus");
-	    createSlidingMenu();
+	    //createSlidingMenu();
 	    songList = new ArrayList<Song>();
 	    getSongList();
 
@@ -141,15 +145,15 @@ public class NowPlayingActivity extends SlidingActivity implements OnSeekComplet
 	    	  }
 	    });	    
 	    
-	    setListHolderShadow();
-	    setListHolderShadowII();
+	    //setListHolderShadow();
+	    //setListHolderShadowII();
 	    //ListAdapter adapter = new SimpleAdapter(this, songsList, R.layout.album_item, new String[] { "songTitle" }, new int[] { R.id.listablumname });
         //library.setAdapter(adapter);
         
         SongAdapter songAdt = new SongAdapter(this, songList);
-        library.setAdapter(songAdt);
+        //library.setAdapter(songAdt);
         
-        library.setOnItemClickListener(new OnItemClickListener(){
+        /*library.setOnItemClickListener(new OnItemClickListener(){
 			@Override
 			public void onItemClick(AdapterView<?> arg0, View view, int position, long arg3) {
 				// TODO Auto-generated method stub
@@ -157,10 +161,36 @@ public class NowPlayingActivity extends SlidingActivity implements OnSeekComplet
 			}
         	
         	
-        });
+        });*/
 
         createBackground();
+		settingStatusBarTransparent();
 		//initialize();
+	}
+
+	private void settingStatusBarTransparent() {
+
+		if (Build.VERSION.SDK_INT == Build.VERSION_CODES.KITKAT) {
+			Window w = getWindow(); // in Activity's onCreate() for instance
+			//w.setFlags(WindowManager.LayoutParams.FLAG_LAYOUT_NO_LIMITS, WindowManager.LayoutParams.FLAG_LAYOUT_NO_LIMITS);
+			getWindow().getDecorView().setSystemUiVisibility(
+					View.SYSTEM_UI_FLAG_LAYOUT_STABLE
+							| View.SYSTEM_UI_FLAG_LAYOUT_FULLSCREEN);
+			w.setFlags(WindowManager.LayoutParams.FLAG_TRANSLUCENT_NAVIGATION, WindowManager.LayoutParams.FLAG_TRANSLUCENT_NAVIGATION);
+			w.setFlags(WindowManager.LayoutParams.FLAG_TRANSLUCENT_STATUS, WindowManager.LayoutParams.FLAG_TRANSLUCENT_STATUS);
+		}
+
+		//Apparently, Android for some weird reason ignores all xml values for styles when you set only one programmatically
+		//Screw you, Google!
+		if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
+			getWindow().setNavigationBarColor(getResources().getColor(R.color.black));
+			//getWindow().setFlags(WindowManager.LayoutParams.FLAG_LAYOUT_NO_LIMITS, WindowManager.LayoutParams.FLAG_LAYOUT_NO_LIMITS);
+			getWindow().getDecorView().setSystemUiVisibility(
+					View.SYSTEM_UI_FLAG_LAYOUT_STABLE
+							| View.SYSTEM_UI_FLAG_LAYOUT_FULLSCREEN );
+			getWindow().setStatusBarColor(Color.TRANSPARENT);
+			//setStatusBarTranslucent(true);
+		}
 	}
 
     private void initTunnelPlayerWorkaround() {
@@ -180,8 +210,8 @@ public class NowPlayingActivity extends SlidingActivity implements OnSeekComplet
         paint.setAntiAlias(true);
 
         paint.setColor(Color.parseColor("#ffffff"));
-        paint.setAlpha(15);
-        DotsRenderer barGraphRendererBottom = new DotsRenderer(50, paint, false);
+        paint.setAlpha(30);
+        DotsRenderer barGraphRendererBottom = new DotsRenderer(40, paint, false);
         mVisualizerView.addRenderer(barGraphRendererBottom);
     }
 
@@ -191,8 +221,9 @@ public class NowPlayingActivity extends SlidingActivity implements OnSeekComplet
         Paint p = new Paint();
 
         p.setStyle(Paint.Style.FILL);
+		//p.setAlpha(45);
         p.setColor(Color.BLACK);
-        p.setAlpha(45);
+        //p.setAlpha(45);
         float horizontal = (float)(width)/(px) + 1;
         float vertical = (float)(height)/(px) + 1;
         int length = (int)((horizontal) * (vertical));
@@ -217,7 +248,7 @@ public class NowPlayingActivity extends SlidingActivity implements OnSeekComplet
                     int dstWidth = px, dstHeight = px;
 
 
-                    Bitmap m = Bitmap.createScaledBitmap(curImage, dstWidth, dstHeight, true);
+                    Bitmap m = Bitmap.createScaledBitmap(curImage, dstWidth, dstHeight, false);
 
                     x = pq * px;
 
@@ -331,7 +362,7 @@ public class NowPlayingActivity extends SlidingActivity implements OnSeekComplet
 	}
 	
 	
-	private void createSlidingMenu(){
+	/*private void createSlidingMenu(){
 		slidingMenu = getSlidingMenu();//new SlidingMenu(this);
 		
 		slidingMenu.setMode(SlidingMenu.LEFT_RIGHT);
@@ -352,7 +383,7 @@ public class NowPlayingActivity extends SlidingActivity implements OnSeekComplet
         
         
         //getActionBar().setDisplayHomeAsUpEnabled(true);
-	} 
+	} */
 	
 	
 	@Override

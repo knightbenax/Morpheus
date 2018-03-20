@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/library/build/intermediates/res/merged/release/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/knightbenax/.android/build-cache/2dc13d82337b3c4474770cdbc2127431bb3dae42/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/library/build/intermediates/res/merged/release/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/knightbenax/.android/build-cache/2dc13d82337b3c4474770cdbc2127431bb3dae42/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/library/build/intermediates/res/merged/release/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/knightbenax/.android/build-cache/2dc13d82337b3c4474770cdbc2127431bb3dae42/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/library/build/intermediates/res/merged/release/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/knightbenax/.android/build-cache/2dc13d82337b3c4474770cdbc2127431bb3dae42/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/library/build/intermediates/res/merged/release/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/knightbenax/.android/build-cache/2dc13d82337b3c4474770cdbc2127431bb3dae42/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/library/build/intermediates/res/merged/release/color-v23/design_tint_password_toggle.xml",
+        "source": "/Users/knightbenax/.android/build-cache/e30b626306207c43d88c041beb953e7917ec1e20/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/library/build/intermediates/res/merged/release/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/knightbenax/.android/build-cache/2dc13d82337b3c4474770cdbc2127431bb3dae42/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/library/build/intermediates/res/merged/release/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/knightbenax/.android/build-cache/2dc13d82337b3c4474770cdbc2127431bb3dae42/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/library/build/intermediates/res/merged/release/color-v23/abc_tint_default.xml",
+        "source": "/Users/knightbenax/.android/build-cache/2dc13d82337b3c4474770cdbc2127431bb3dae42/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/library/build/intermediates/res/merged/release/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/knightbenax/.android/build-cache/2dc13d82337b3c4474770cdbc2127431bb3dae42/output/res/color-v23/abc_tint_btn_checkable.xml"
+    }
+]

@@ -3,39 +3,183 @@
 
     <item
         is-multidex="true"
-        jar="/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/exploded-aar/Morpheus/library/unspecified/jars/libs/android-support-v4.jar"
+        jar="/Users/knightbenax/.android/build-cache/aa42639425bd21fc829d7fc894d46e540ea75a01/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="21.1.1"
-        sha1="15c03170be6fbbb27ca5bae0eb284fef5755253a">
-        <dex dex="/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/transforms/dex/debug/folders/1000/8/android-support-v4_e8b8a0577d943ab2c087e214f4f4366871148aa7/classes.dex" />
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b0146d7447a62e52d22dc33a841015d84be9ae62/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="/Users/knightbenax/.android/build-cache/bb2afe9825bb72fe0720946b1aeb4ba14ad90684/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="21.1.1"
-        sha1="4a86d3389a8d4a9f96f4166d8e5f759524a90249">
-        <dex dex="/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_bf8f6d2f8a4326d10f8fd7e4d12ea7f4656c44b7/classes.dex" />
+        revision="26.0.2"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5546352624b65a0c9ced4dd39e73360128a9c5c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/knightbenax/.android/build-cache/8ab5cd42f5d06fdf8a057fe7f896d5594585c880/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/transforms/dex/debug/folders/1000/10/classes_68eb457ac9c81f05af5b250587daeaf5d46372d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/knightbenax/.android/build-cache/3774b465d32353b98ff93d5995c07f169597206b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fbaffbfc2a42fce3718dc9f52182810ad332b0ec">
+        <dex dex="/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/transforms/dex/debug/folders/1000/10/classes_03de0cbe67c9c02855b55ee1a4db3e6ab33c0efa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/knightbenax/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.0.0_cb431c908e27434028e951aff752e83b26339265/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/knightbenax/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.0.0_0760b50c0ede39cb0ff244b6d6b75ceb88a932ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/knightbenax/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.1.0_27f60eeaabf038dc3f5831696178e1f38566a743/classes.dex" />
     </item>
     <item
         is-multidex="true"
         jar="/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
-        revision="21.1.1"
-        sha1="660e7f2c26eb6ab684eee99729f3e64965a4643f">
-        <dex dex="/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_cfa0e2030e9c8a69cc18fd09ee52783bcc11fe31/classes.dex" />
+        revision="26.0.2"
+        sha1="d27ba3ff10d950fad68923f0361363a58b51e853">
+        <dex dex="/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_cfa0e2030e9c8a69cc18fd09ee52783bcc11fe31/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/exploded-aar/com.makeramen/roundedimageview/2.3.0/jars/classes.jar"
+        jar="/Users/knightbenax/.android/build-cache/d5a2af4a161721d275b6995afdd94cd30b01f132/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="21.1.1"
-        sha1="fbaffbfc2a42fce3718dc9f52182810ad332b0ec">
-        <dex dex="/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/transforms/dex/debug/folders/1000/10/com.makeramen-roundedimageview-2.3.0_defd06b9c4b8ef3d5376a5417ecb27c9fc34fb1b/classes.dex" />
+        revision="26.0.2"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b50362427cdb96dcb73fd4f29ad875df42273b26/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/knightbenax/.android/build-cache/87c7c640c45a1fdceaabf58ec5913629e03392f0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/transforms/dex/debug/folders/1000/10/classes_79c95ca1643bc2c8e95cde52c94e3e1a9a7d619b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_bf8f6d2f8a4326d10f8fd7e4d12ea7f4656c44b7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/knightbenax/.android/build-cache/e30b626306207c43d88c041beb953e7917ec1e20/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a37fc31c5ceeaa4532a37358add1b189d8db4af1">
+        <dex dex="/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e9236009b3293cc422df3f480af24d8ab83bf9fe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/knightbenax/.android/build-cache/dcd7b4fa118394103be0ef1860ae4a0f9f3eaeaa/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/transforms/dex/debug/folders/1000/10/classes_60053216afba788bd0217cfce0bf71f12a890444/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/knightbenax/.android/build-cache/2dc13d82337b3c4474770cdbc2127431bb3dae42/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/transforms/dex/debug/folders/1000/10/classes_81ed31f4c9b2db3242d9b0df7d26f06bf4d18f67/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/knightbenax/.android/build-cache/06c4966c6c53abfc6644ec39e2ea98c2188a4c17/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ba4035342b5445e0d69b02010f5762057a566b37/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/knightbenax/.android/build-cache/13dfd5a5f3f87168dd8f074554741577a50c41e2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b12cd9c87c3dfb012a911b6e38d2444ed0a65e1f">
+        <dex dex="/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d5efd92790047c890b81b52659cea99651471d66/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/knightbenax/.android/build-cache/fd0cd7ab09a62a053df734b03d4df4600e0ee16c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="58b12bdb21a84f22e0dc3b047aeceb0a546b1b44">
+        <dex dex="/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/transforms/dex/debug/folders/1000/10/classes_82d3a73c9e109d1730d1f8269a0051c0bc3ac626/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/knightbenax/.android/build-cache/b18b17f403f02ec896ff8f72a084b090603a6927/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/transforms/dex/debug/folders/1000/10/classes_93e224d2389957e372210f850276f74ea6e6130f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/library/build/intermediates/bundles/default/libs/android-support-v4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="15c03170be6fbbb27ca5bae0eb284fef5755253a">
+        <dex dex="/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/transforms/dex/debug/folders/1000/8/android-support-v4_5db2d0afe3afefdcce4b459009409412d243364a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/knightbenax/.android/build-cache/20b443bb3543bf4ee9f522586cb3067e8c0455de/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6cea2ded7e98dce11deb12724d7f26ac98a6aa1e/classes.dex" />
     </item>
 
 </items>

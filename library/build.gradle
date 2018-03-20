@@ -1,13 +1,13 @@
 apply plugin: 'com.android.library'
 
 android {
-    compileSdkVersion 16
-    buildToolsVersion "21.1.1"
+    compileSdkVersion 26
+    buildToolsVersion '26.0.2'
 
     defaultConfig {
         //applicationId "com.jeremyfeinstein.slidingmenu.lib"
-        minSdkVersion 5
-        targetSdkVersion 17
+        minSdkVersion 14
+        targetSdkVersion 26
     }
 
     buildTypes {
@@ -20,4 +20,6 @@ android {
 
 dependencies {
     compile files('libs/android-support-v4.jar')
+    compile 'com.android.support:design:26.1.0'
+    compile 'com.android.support:appcompat-v7:26.1.0'
 }

@@ -1,0 +1,4 @@
+#Tue Mar 20 01:34:01 WAT 2018
+base.0=/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5
+renamed.0=classes.dex
+file.0=/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex

@@ -5,6 +5,11 @@
     android:layout_height="match_parent"
     android:id="@+id/parentholder">
 
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:background="@color/transparent_black"
+        android:layout_height="match_parent"></LinearLayout>
+
     <com.ephod.morpheus.visualizer.VisualizerView
         android:id="@+id/visualizerView"
         android:layout_width="match_parent"
@@ -80,8 +85,9 @@
               android:layout_height="match_parent"
               android:id="@+id/albumart"
               android:scaleType="centerInside"
-              app:riv_corner_radius="10dip"
+              app:riv_corner_radius="6dip"
               android:maxWidth="480dp"
+
               android:maxHeight="480dp"
               app:riv_mutate_background="true" />
 

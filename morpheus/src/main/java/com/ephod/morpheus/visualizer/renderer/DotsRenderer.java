@@ -64,7 +64,6 @@ public class DotsRenderer extends Renderer
 
         int base = rectSize * 20;
         float numOfBar = (float)(lhs)/(rhs);
-
         /*Log.e("XC", "start");
         Log.e("XC", String.valueOf(numOfBar));
         Log.e("XC", "end");*/
@@ -73,7 +72,7 @@ public class DotsRenderer extends Renderer
             canvas.drawCircle(y * rectSize, (((z  - 30) * rectSize)), finalRectSize, mPaint);
         }
 
-        Log.e("Width Of Box", String.valueOf(rectSize));
+        //Log.e("Width Of Box", String.valueOf(rectSize));
     }
 
       /*
