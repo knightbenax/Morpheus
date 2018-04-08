@@ -10,7 +10,7 @@
     	android:layout_height="wrap_content"
     	android:orientation="horizontal"
     	android:gravity="center_vertical"
-    	android:background="@color/realwhite">
+    	android:background="@color/white">
     	
          <Button
         android:id="@+id/menubutton"

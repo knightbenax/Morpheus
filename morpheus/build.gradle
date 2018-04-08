@@ -2,7 +2,7 @@ apply plugin: 'com.android.application'
 
 android {
     compileSdkVersion 26
-    buildToolsVersion '26.0.2'
+    buildToolsVersion '27.0.3'
 
     defaultConfig {
         applicationId "com.ephod.morpheus"
@@ -19,9 +19,9 @@ android {
 }
 
 dependencies {
-    compile project(':library')
-    compile 'com.makeramen:roundedimageview:2.3.0';
-    compile 'com.android.support:design:26.1.0'
-    compile 'com.android.support:appcompat-v7:26.1.0'
+    //implementation project(':library')
+    implementation 'com.makeramen:roundedimageview:2.3.0';
+    implementation 'com.android.support:design:26.1.0'
+    implementation 'com.android.support:appcompat-v7:26.1.0'
     //compile files('libs/android-support-v4.jar')
 }

@@ -20,6 +20,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
+    android:layout_marginTop="@dimen/size_16"
     android:layout_gravity="center_vertical"
     android:gravity="bottom|center"
     tools:context=".NowPlayingActivity">
@@ -33,7 +34,7 @@
 
       <ImageButton
           android:layout_width="wrap_content"
-          android:paddingTop="35dp"
+          android:layout_marginTop="@dimen/size_16"
           android:layout_marginRight="15dp"
           android:layout_marginLeft="15dp"
           android:background="@null"
@@ -47,8 +48,7 @@
           android:layout_gravity="center_vertical"
           android:gravity="bottom|center"
 
-          android:paddingTop="35dp"
-          android:paddingBottom="10dp"
+
           android:orientation="vertical"
           android:layout_weight="1"  >
 
@@ -79,6 +79,21 @@
               android:maxHeight="500dp"
               android:scaleType="centerInside"/>-->
 
+          <com.ephod.morpheus.CustomTextViewBold
+              android:id="@+id/artistname"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:paddingLeft="@dimen/size_8"
+              android:paddingRight="@dimen/size_8"
+              android:layout_marginTop="@dimen/size_16"
+              android:layout_marginBottom="@dimen/size_14"
+              android:textSize="@dimen/font_14sp"
+              android:lines="1"
+              android:textColor="#fff"
+              android:textColorHint="@color/white"
+              android:hint="@string/twenty_one_pilots"
+              android:gravity="center" />
+
           <com.makeramen.roundedimageview.RoundedImageView
               xmlns:app="http://schemas.android.com/apk/res-auto"
               android:layout_width="match_parent"
@@ -87,7 +102,7 @@
               android:scaleType="centerInside"
               app:riv_corner_radius="6dip"
               android:maxWidth="480dp"
-
+              android:elevation="@dimen/size_8"
               android:maxHeight="480dp"
               app:riv_mutate_background="true" />
 
@@ -95,7 +110,7 @@
 
       <ImageButton
           android:layout_width="wrap_content"
-          android:paddingTop="35dp"
+          android:layout_marginTop="@dimen/size_16"
           android:background="@null"
           android:layout_marginRight="15dp"
           android:layout_marginLeft="15dp"
@@ -128,7 +143,7 @@
             android:layout_marginBottom="3dp"
             android:gravity="center" />
 
-        <com.ephod.morpheus.CustomTextViewBold
+        <com.ephod.morpheus.CustomTextView
             android:id="@+id/albumname"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -137,22 +152,13 @@
             android:textSize="20sp"
             android:textColor="#fff"
             android:textStyle="bold"
-            android:lines="1"
+            android:lines="2"
             android:ellipsize="end"
             android:layout_marginBottom="3dp"
             android:gravity="center"
             />
 
-        <com.ephod.morpheus.CustomTextView
-            android:id="@+id/artistname"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:paddingLeft="20dp"
-            android:paddingRight="20dp"
-            android:textSize="18sp"
-            android:lines="1"
-            android:textColor="#fff"
-            android:gravity="center" />
+
 
     </LinearLayout>
         
@@ -160,41 +166,25 @@
             android:id="@+id/controls"
          	android:layout_width="fill_parent"
         	android:layout_height="wrap_content"
-        android:paddingTop="5dp"
-        android:paddingBottom="30dp"
+            android:paddingTop="5dp"
             android:gravity="center"
             android:orientation="horizontal"
-
-
             tools:ignore="UselessParent" >
             
-         <Button
-        android:id="@+id/shufflebutton"
-     android:layout_width="40dp"
-        android:layout_height="40dp"
-        style="?android:attr/buttonBarButtonStyle"
+
         
-       	android:minWidth="16dp"
-        android:minHeight="52dp"
-        android:background="@drawable/shufflebuttonoff"
-         />
-        
-         <Button
+         <ImageButton
         android:id="@+id/previousbutton"
         android:layout_width="40dp"
         android:layout_height="40dp"
-        style="?android:attr/buttonBarButtonStyle"
-         	android:minWidth="40dp"
+             android:src="@drawable/ic_rewind_white_36dp"
          	 android:onClick="PlayPrevious"
-        android:minHeight="40dp"
-        android:layout_marginLeft="5dp"
-        android:background="@drawable/backwardbutton"
+        android:background="@null"
         />
          
          <RelativeLayout
-             android:layout_width="150dp"
-
-             android:layout_height="150dp">
+             android:layout_width="120dp"
+             android:layout_height="120dp">
 
              <com.ephod.morpheus.CircularSeekBar
                  android:id="@+id/holoCircularProgressBar"
@@ -219,23 +209,20 @@
                  app:pointer_halo_color="#880174DF" />
 
 
-             <Button
+             <ImageButton
                  android:id="@+id/playbutton"
-                 android:background="@drawable/playbutton"
-                 android:layout_width="52dp"
-                 android:layout_height="52dp"
-
+                 android:background="@null"
+                 android:src="@drawable/ic_play_white_48dp"
+                 android:scaleType="centerInside"
+                 android:layout_width="@dimen/size_52"
+                 android:layout_height="@dimen/size_52"
                  android:layout_centerInParent="true"
-                 style="?android:attr/buttonBarButtonStyle"
                  android:onClick="PlayPause"
-                 android:minWidth="52dp"
-                 android:minHeight="52dp"
-
                  />
 
          </RelativeLayout>
          
-         <Button
+         <ImageButton
         android:id="@+id/forwardbutton"
         android:layout_width="40dp"
         android:layout_height="40dp"
@@ -247,18 +234,37 @@
         android:background="@drawable/forwardbutton"
          />
          
-           <Button
-        android:id="@+id/repeatbutton"
-       android:layout_width="40dp"
-        android:layout_height="40dp"
-        style="?android:attr/buttonBarButtonStyle"
-       	android:minWidth="14dp"
-        android:minHeight="52dp"
-        android:background="@drawable/repeatbuttonoff"
-         />
+
         
         </LinearLayout>
 
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:paddingBottom="@dimen/size_12"
+        android:paddingTop="@dimen/size_12"
+        android:layout_height="wrap_content">
+
+        <ImageButton
+            android:id="@+id/shufflebutton"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="@dimen/size_40"
+            style="?android:attr/buttonBarButtonStyle"
+
+            android:src="@drawable/shufflebuttonoff"
+            />
+
+        <ImageButton
+            android:id="@+id/repeatbutton"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="@dimen/size_40"
+            style="?android:attr/buttonBarButtonStyle"
+            android:src="@drawable/repeatbuttonoff"
+            android:background="@null"
+            />
+
+    </LinearLayout>
    
 
 </LinearLayout>

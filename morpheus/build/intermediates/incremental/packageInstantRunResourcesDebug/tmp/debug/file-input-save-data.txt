@@ -1,0 +1,31 @@
+#Internal package file, do not edit.
+#Sun Apr 08 23:46:44 WAT 2018
+2.base=/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/assets/debug
+5.set=ASSET
+0.path=fonts/Lato-Bold.ttf
+2.baseType=DIRECTORY
+3.base=/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/assets/debug
+2.set=ASSET
+1.path=fonts/Lato-Regular.ttf
+4.base=/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/assets/debug
+count=7
+5.baseType=DIRECTORY
+2.path=fonts/GothamMedium.otf
+5.base=/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/assets/debug
+4.set=ASSET
+3.path=fonts/Omnes.ttf
+6.base=/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/assets/debug
+3.baseType=DIRECTORY
+1.set=ASSET
+4.path=fonts/OmnesSemibold.ttf
+6.set=ASSET
+1.baseType=DIRECTORY
+6.baseType=DIRECTORY
+5.path=fonts/GothamBook.otf
+0.base=/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/assets/debug
+0.baseType=DIRECTORY
+3.set=ASSET
+6.path=fonts/Lato-Heavy.ttf
+1.base=/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/assets/debug
+4.baseType=DIRECTORY
+0.set=ASSET
