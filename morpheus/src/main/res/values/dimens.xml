@@ -6,10 +6,14 @@
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
     <dimen name="size_36">36dp</dimen>
+    <dimen name="size_32">32dp</dimen>
     <dimen name="size_8">8dp</dimen>
     <dimen name="size_12">12dp</dimen>
     <dimen name="size_26">26dp</dimen>
     <dimen name="size_14">14dp</dimen>
+    <dimen name="size_18">18dp</dimen>
+    <dimen name="size_20">20dp</dimen>
+    <dimen name="size_22">22dp</dimen>
     <dimen name="size_16">16dp</dimen>
     <dimen name="size_40">40dp</dimen>
     <dimen name="size_52">52dp</dimen>

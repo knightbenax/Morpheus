@@ -12,6 +12,10 @@
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxxhdpi/ic_fast_forward_grey600_48dp.png"
     },
     {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/font_lato_extrabolditalic.ttf.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/font/lato_extrabolditalic.ttf"
+    },
+    {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/color-v11_abc_background_cache_hint_selector_material_dark.xml.flat",
         "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6edda9f15b3b77cb433f6b3a871f150a/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
     },
@@ -48,8 +52,20 @@
         "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6edda9f15b3b77cb433f6b3a871f150a/res/drawable-ldrtl-hdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-mdpi_ic_shuffle_variant_black_18dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-mdpi/ic_shuffle_variant_black_18dp.png"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/font_lato_semibold.ttf.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/font/lato_semibold.ttf"
+    },
+    {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
         "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6edda9f15b3b77cb433f6b3a871f150a/res/drawable-hdpi-v4/abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_shuffle_variant_grey600_18dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxxhdpi/ic_shuffle_variant_grey600_18dp.png"
     },
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_heart_grey600_48dp.png.flat",
@@ -58,6 +74,14 @@
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_heart_grey600_36dp.png.flat",
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxxhdpi/ic_heart_grey600_36dp.png"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-mdpi_ic_repeat_black_36dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-mdpi/ic_repeat_black_36dp.png"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxhdpi_shuffle_variant.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/generated/res/pngs/debug/drawable-xxhdpi/shuffle_variant.png"
     },
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
@@ -70,6 +94,10 @@
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_star_half_black_36dp.png.flat",
         "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6edda9f15b3b77cb433f6b3a871f150a/res/drawable-hdpi-v4/abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-mdpi_ic_repeat_black_48dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-mdpi/ic_repeat_black_48dp.png"
     },
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
@@ -96,6 +124,10 @@
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-mdpi/ic_pause_grey600_36dp.png"
     },
     {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-ldpi_repeat.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/generated/res/pngs/debug/drawable-ldpi/repeat.png"
+    },
+    {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
         "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6edda9f15b3b77cb433f6b3a871f150a/res/drawable-hdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
@@ -120,6 +152,10 @@
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/generated/res/pngs/debug/drawable-hdpi/pause.png"
     },
     {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xhdpi_ic_repeat_black_36dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xhdpi/ic_repeat_black_36dp.png"
+    },
+    {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-mdpi_ic_play_white_18dp.png.flat",
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-mdpi/ic_play_white_18dp.png"
     },
@@ -132,6 +168,10 @@
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/generated/res/pngs/debug/drawable-mdpi/heart.png"
     },
     {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-mdpi_ic_shuffle_variant_black_24dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-mdpi/ic_shuffle_variant_black_24dp.png"
+    },
+    {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-v21_design_password_eye.xml.flat",
         "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/c67d05dafb10194636c714868ab7b60c/res/drawable-v21/design_password_eye.xml"
     },
@@ -140,12 +180,24 @@
         "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6edda9f15b3b77cb433f6b3a871f150a/res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xhdpi_ic_repeat_black_18dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xhdpi/ic_repeat_black_18dp.png"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-hdpi_ic_shuffle_variant_black_18dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-hdpi/ic_shuffle_variant_black_18dp.png"
+    },
+    {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-ldpi_dots_horizontal.png.flat",
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/generated/res/pngs/debug/drawable-ldpi/dots_horizontal.png"
     },
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/raw_workaround_1min.mp3.flat",
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/raw/workaround_1min.mp3"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_shuffle_variant_grey600_24dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxxhdpi/ic_shuffle_variant_grey600_24dp.png"
     },
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
@@ -220,6 +272,10 @@
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-hdpi/bgpng.png"
     },
     {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_shuffle_variant_white_24dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxhdpi/ic_shuffle_variant_white_24dp.png"
+    },
+    {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-hdpi_ic_play_white_48dp.png.flat",
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-hdpi/ic_play_white_48dp.png"
     },
@@ -248,6 +304,10 @@
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-mdpi/ic_pause_black_48dp.png"
     },
     {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xhdpi_ic_repeat_black_48dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xhdpi/ic_repeat_black_48dp.png"
+    },
+    {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_magnify_white_18dp.png.flat",
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxxhdpi/ic_magnify_white_18dp.png"
     },
@@ -264,6 +324,10 @@
         "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6edda9f15b3b77cb433f6b3a871f150a/res/color-v23/abc_tint_switch_track.xml"
     },
     {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_shuffle_variant_grey600_36dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxxhdpi/ic_shuffle_variant_grey600_36dp.png"
+    },
+    {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6edda9f15b3b77cb433f6b3a871f150a/res/drawable-mdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
     },
@@ -274,6 +338,10 @@
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
         "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6edda9f15b3b77cb433f6b3a871f150a/res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-hdpi_ic_shuffle_variant_black_24dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-hdpi/ic_shuffle_variant_black_24dp.png"
     },
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
@@ -296,6 +364,10 @@
         "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6edda9f15b3b77cb433f6b3a871f150a/res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
     },
     {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-hdpi_ic_shuffle_variant_grey600_18dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-hdpi/ic_shuffle_variant_grey600_18dp.png"
+    },
+    {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/anim_abc_popup_enter.xml.flat",
         "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6edda9f15b3b77cb433f6b3a871f150a/res/anim/abc_popup_enter.xml"
     },
@@ -310,6 +382,10 @@
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable_abc_vector_test.xml.flat",
         "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6edda9f15b3b77cb433f6b3a871f150a/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-mdpi_ic_repeat_black_24dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-mdpi/ic_repeat_black_24dp.png"
     },
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-mdpi_ic_pause_grey600_48dp.png.flat",
@@ -340,12 +416,12 @@
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-mdpi/ic_play_white_36dp.png"
     },
     {
-        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/layout_design_layout_tab_text.xml.flat",
-        "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/c67d05dafb10194636c714868ab7b60c/res/layout/design_layout_tab_text.xml"
-    },
-    {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
         "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/e2b2405faee9dd9e8eff98308ba4b37f/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/layout_design_layout_tab_text.xml.flat",
+        "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/c67d05dafb10194636c714868ab7b60c/res/layout/design_layout_tab_text.xml"
     },
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable_notification_bg_low.xml.flat",
@@ -432,6 +508,10 @@
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-mdpi/ic_fast_forward_white_18dp.png"
     },
     {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/font_lato_blackitalic.ttf.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/font/lato_blackitalic.ttf"
+    },
+    {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-ldrtl-xhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6edda9f15b3b77cb433f6b3a871f150a/res/drawable-ldrtl-xhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
     },
@@ -458,6 +538,10 @@
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-mdpi_ic_heart_black_24dp.png.flat",
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-mdpi/ic_heart_black_24dp.png"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_shuffle_variant_white_36dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxhdpi/ic_shuffle_variant_white_36dp.png"
     },
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xhdpi_ic_heart_grey600_24dp.png.flat",
@@ -488,6 +572,18 @@
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-mdpi/ic_magnify_black_48dp.png"
     },
     {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_shuffle_variant_white_24dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxxhdpi/ic_shuffle_variant_white_24dp.png"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/font_lato_bold.ttf.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/font/lato_bold.ttf"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_repeat_black_48dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxhdpi/ic_repeat_black_48dp.png"
+    },
+    {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-hdpi_ic_play_white_18dp.png.flat",
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-hdpi/ic_play_white_18dp.png"
     },
@@ -502,6 +598,10 @@
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_dots_horizontal_white_24dp.png.flat",
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxhdpi/ic_dots_horizontal_white_24dp.png"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_repeat_white_36dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxxhdpi/ic_repeat_white_36dp.png"
     },
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
@@ -580,12 +680,20 @@
         "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6edda9f15b3b77cb433f6b3a871f150a/res/drawable-ldrtl-hdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-hdpi_ic_shuffle_variant_grey600_36dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-hdpi/ic_shuffle_variant_grey600_36dp.png"
+    },
+    {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
         "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6edda9f15b3b77cb433f6b3a871f150a/res/drawable-mdpi-v4/abc_popup_background_mtrl_mult.9.png"
     },
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-mdpi_pausebutton.png.flat",
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-mdpi/pausebutton.png"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_repeat_black_24dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxxhdpi/ic_repeat_black_24dp.png"
     },
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/color_abc_primary_text_material_light.xml.flat",
@@ -648,8 +756,16 @@
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-hdpi/ic_rewind_black_48dp.png"
     },
     {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xhdpi_repeat.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/generated/res/pngs/debug/drawable-xhdpi/repeat.png"
+    },
+    {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-mdpi_magnify.png.flat",
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/generated/res/pngs/debug/drawable-mdpi/magnify.png"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_repeat_white_24dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxxhdpi/ic_repeat_white_24dp.png"
     },
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/color-v23_abc_tint_default.xml.flat",
@@ -660,8 +776,24 @@
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxhdpi/ic_magnify_grey600_48dp.png"
     },
     {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-mdpi_shuffle_variant.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/generated/res/pngs/debug/drawable-mdpi/shuffle_variant.png"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_shuffle_variant_grey600_48dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxxhdpi/ic_shuffle_variant_grey600_48dp.png"
+    },
+    {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_dots_horizontal_grey600_48dp.png.flat",
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxxhdpi/ic_dots_horizontal_grey600_48dp.png"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-mdpi_ic_shuffle_variant_black_48dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-mdpi/ic_shuffle_variant_black_48dp.png"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-hdpi_ic_shuffle_variant_black_36dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-hdpi/ic_shuffle_variant_black_36dp.png"
     },
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-hdpi_ic_library_music_white_24dp.png.flat",
@@ -682,6 +814,10 @@
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/layout_notification_template_lines_media.xml.flat",
         "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/cddbaf2dd3308e54bda197d1a78d655f/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xhdpi_ic_shuffle_variant_black_24dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xhdpi/ic_shuffle_variant_black_24dp.png"
     },
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_magnify_black_36dp.png.flat",
@@ -764,6 +900,10 @@
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxhdpi/shufflebutton.png"
     },
     {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_repeat_white_18dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxxhdpi/ic_repeat_white_18dp.png"
+    },
+    {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-v21_avd_hide_password.xml.flat",
         "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/c67d05dafb10194636c714868ab7b60c/res/drawable-v21/avd_hide_password.xml"
     },
@@ -800,8 +940,16 @@
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/generated/res/pngs/debug/drawable-anydpi-v21/play.xml"
     },
     {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxxhdpi_shuffle_variant.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/generated/res/pngs/debug/drawable-xxxhdpi/shuffle_variant.png"
+    },
+    {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_longpressed_holo.9.png.flat",
         "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6edda9f15b3b77cb433f6b3a871f150a/res/drawable-mdpi-v4/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xhdpi_ic_shuffle_variant_grey600_36dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xhdpi/ic_shuffle_variant_grey600_36dp.png"
     },
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-mdpi_ic_pause_grey600_18dp.png.flat",
@@ -836,6 +984,10 @@
         "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6edda9f15b3b77cb433f6b3a871f150a/res/drawable-xxxhdpi-v4/abc_ic_star_black_36dp.png"
     },
     {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-ldpi_shuffle_variant.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/generated/res/pngs/debug/drawable-ldpi/shuffle_variant.png"
+    },
+    {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xhdpi_ic_pause_black_24dp.png.flat",
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xhdpi/ic_pause_black_24dp.png"
     },
@@ -844,12 +996,12 @@
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/generated/res/pngs/debug/drawable-hdpi/rewind.png"
     },
     {
-        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/layout_notification_action.xml.flat",
-        "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/e2b2405faee9dd9e8eff98308ba4b37f/res/layout/notification_action.xml"
-    },
-    {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/color_abc_secondary_text_material_dark.xml.flat",
         "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6edda9f15b3b77cb433f6b3a871f150a/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/layout_notification_action.xml.flat",
+        "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/e2b2405faee9dd9e8eff98308ba4b37f/res/layout/notification_action.xml"
     },
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_heart_black_36dp.png.flat",
@@ -884,12 +1036,32 @@
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/generated/res/pngs/debug/drawable-anydpi-v21/dots_horizontal.xml"
     },
     {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-mdpi_ic_repeat_black_18dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-mdpi/ic_repeat_black_18dp.png"
+    },
+    {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-hdpi_ic_dots_horizontal_grey600_36dp.png.flat",
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-hdpi/ic_dots_horizontal_grey600_36dp.png"
     },
     {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_repeat_black_48dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxxhdpi/ic_repeat_black_48dp.png"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/font_lato_semibolditalic.ttf.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/font/lato_semibolditalic.ttf"
+    },
+    {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
         "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6edda9f15b3b77cb433f6b3a871f150a/res/drawable-hdpi-v4/abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_shuffle_variant_white_18dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxhdpi/ic_shuffle_variant_white_18dp.png"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/font_lato_thinitalic.ttf.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/font/lato_thinitalic.ttf"
     },
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
@@ -908,12 +1080,20 @@
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/generated/res/pngs/debug/drawable-anydpi-v21/pause.xml"
     },
     {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xhdpi_ic_repeat_grey600_36dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xhdpi/ic_repeat_grey600_36dp.png"
+    },
+    {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_fast_forward_white_24dp.png.flat",
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxxhdpi/ic_fast_forward_white_24dp.png"
     },
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_magnify_white_24dp.png.flat",
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxxhdpi/ic_magnify_white_24dp.png"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_shuffle_variant_white_18dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxxhdpi/ic_shuffle_variant_white_18dp.png"
     },
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/color_abc_tint_switch_track.xml.flat",
@@ -1048,6 +1228,14 @@
         "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6edda9f15b3b77cb433f6b3a871f150a/res/layout/abc_action_mode_bar.xml"
     },
     {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xhdpi_ic_repeat_black_24dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xhdpi/ic_repeat_black_24dp.png"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xhdpi_ic_shuffle_variant_black_18dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xhdpi/ic_shuffle_variant_black_18dp.png"
+    },
+    {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
         "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6edda9f15b3b77cb433f6b3a871f150a/res/drawable-hdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
     },
@@ -1096,6 +1284,10 @@
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxxhdpi/ic_pause_grey600_36dp.png"
     },
     {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/font_lato_lightitalic.ttf.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/font/lato_lightitalic.ttf"
+    },
+    {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_play_black_18dp.png.flat",
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxxhdpi/ic_play_black_18dp.png"
     },
@@ -1134,6 +1326,10 @@
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
         "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6edda9f15b3b77cb433f6b3a871f150a/res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-hdpi_ic_repeat_white_48dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-hdpi/ic_repeat_white_48dp.png"
     },
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-ldpi_rewind.png.flat",
@@ -1176,6 +1372,10 @@
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxxhdpi/ic_magnify_black_24dp.png"
     },
     {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/font_lato_black.ttf.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/font/lato_black.ttf"
+    },
+    {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-mdpi_ic_magnify_white_18dp.png.flat",
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-mdpi/ic_magnify_white_18dp.png"
     },
@@ -1200,6 +1400,10 @@
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-hdpi/ic_heart_grey600_18dp.png"
     },
     {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_repeat_black_18dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxhdpi/ic_repeat_black_18dp.png"
+    },
+    {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_black_36dp.png.flat",
         "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6edda9f15b3b77cb433f6b3a871f150a/res/drawable-xxhdpi-v4/abc_ic_star_black_36dp.png"
     },
@@ -1218,6 +1422,10 @@
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable_slidingmenu_shadow_right.xml.flat",
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable/slidingmenu_shadow_right.xml"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_shuffle_variant_grey600_18dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxhdpi/ic_shuffle_variant_grey600_18dp.png"
     },
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_magnify_black_18dp.png.flat",
@@ -1268,6 +1476,14 @@
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxxhdpi/ic_rewind_grey600_18dp.png"
     },
     {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-hdpi_ic_shuffle_variant_white_24dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-hdpi/ic_shuffle_variant_white_24dp.png"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_shuffle_variant_grey600_36dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxhdpi/ic_shuffle_variant_grey600_36dp.png"
+    },
+    {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
         "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6edda9f15b3b77cb433f6b3a871f150a/res/drawable-xxxhdpi-v4/abc_ic_star_half_black_36dp.png"
     },
@@ -1284,12 +1500,12 @@
         "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/cddbaf2dd3308e54bda197d1a78d655f/res/layout/notification_template_big_media_narrow.xml"
     },
     {
-        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/layout_playlist.xml.flat",
-        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/layout/playlist.xml"
-    },
-    {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-mdpi_ic_rewind_white_18dp.png.flat",
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-mdpi/ic_rewind_white_18dp.png"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/layout_playlist.xml.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/layout/playlist.xml"
     },
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xhdpi_play.png.flat",
@@ -1332,6 +1548,10 @@
         "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6edda9f15b3b77cb433f6b3a871f150a/res/drawable-hdpi-v4/abc_text_select_handle_left_mtrl_light.png"
     },
     {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xhdpi_ic_repeat_white_24dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xhdpi/ic_repeat_white_24dp.png"
+    },
+    {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-mdpi-v4_design_ic_visibility_off.png.flat",
         "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/c67d05dafb10194636c714868ab7b60c/res/drawable-mdpi-v4/design_ic_visibility_off.png"
     },
@@ -1352,6 +1572,10 @@
         "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6edda9f15b3b77cb433f6b3a871f150a/res/drawable/abc_spinner_textfield_background_material.xml"
     },
     {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-hdpi_shuffle_variant.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/generated/res/pngs/debug/drawable-hdpi/shuffle_variant.png"
+    },
+    {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/layout_abc_action_bar_up_container.xml.flat",
         "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6edda9f15b3b77cb433f6b3a871f150a/res/layout/abc_action_bar_up_container.xml"
     },
@@ -1370,6 +1594,14 @@
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/layout-v21_notification_action_tombstone.xml.flat",
         "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/e2b2405faee9dd9e8eff98308ba4b37f/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-hdpi_ic_repeat_white_24dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-hdpi/ic_repeat_white_24dp.png"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-hdpi_ic_repeat_white_18dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-hdpi/ic_repeat_white_18dp.png"
     },
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_dots_horizontal_white_18dp.png.flat",
@@ -1440,6 +1672,10 @@
         "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6edda9f15b3b77cb433f6b3a871f150a/res/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-anydpi-v21_shuffle_variant.xml.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/generated/res/pngs/debug/drawable-anydpi-v21/shuffle_variant.xml"
+    },
+    {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
         "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6edda9f15b3b77cb433f6b3a871f150a/res/drawable-mdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
     },
@@ -1480,8 +1716,20 @@
         "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/c67d05dafb10194636c714868ab7b60c/res/drawable/design_bottom_navigation_item_background.xml"
     },
     {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xhdpi_ic_repeat_white_18dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xhdpi/ic_repeat_white_18dp.png"
+    },
+    {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-mdpi_ic_heart_grey600_24dp.png.flat",
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-mdpi/ic_heart_grey600_24dp.png"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxxhdpi_repeat.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/generated/res/pngs/debug/drawable-xxxhdpi/repeat.png"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xhdpi_ic_shuffle_variant_grey600_18dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xhdpi/ic_shuffle_variant_grey600_18dp.png"
     },
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-hdpi_ic_play_black_48dp.png.flat",
@@ -1510,6 +1758,10 @@
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_fast_forward_black_36dp.png.flat",
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxxhdpi/ic_fast_forward_black_36dp.png"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xhdpi_ic_shuffle_variant_black_36dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xhdpi/ic_shuffle_variant_black_36dp.png"
     },
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
@@ -1552,12 +1804,28 @@
         "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6edda9f15b3b77cb433f6b3a871f150a/res/drawable-xxhdpi-v4/abc_text_select_handle_right_mtrl_light.png"
     },
     {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_shuffle_variant_grey600_24dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxhdpi/ic_shuffle_variant_grey600_24dp.png"
+    },
+    {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/layout_notification_media_action.xml.flat",
         "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/cddbaf2dd3308e54bda197d1a78d655f/res/layout/notification_media_action.xml"
     },
     {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_repeat_grey600_48dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxhdpi/ic_repeat_grey600_48dp.png"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_repeat_black_24dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxhdpi/ic_repeat_black_24dp.png"
+    },
+    {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable_abc_switch_thumb_material.xml.flat",
         "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6edda9f15b3b77cb433f6b3a871f150a/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_shuffle_variant_white_36dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxxhdpi/ic_shuffle_variant_white_36dp.png"
     },
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
@@ -1584,12 +1852,20 @@
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xhdpi/ic_dots_horizontal_black_18dp.png"
     },
     {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xhdpi_ic_repeat_grey600_48dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xhdpi/ic_repeat_grey600_48dp.png"
+    },
+    {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-hdpi_about.png.flat",
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-hdpi/about.png"
     },
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/layout_abc_expanded_menu_layout.xml.flat",
         "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6edda9f15b3b77cb433f6b3a871f150a/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_repeat_black_18dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxxhdpi/ic_repeat_black_18dp.png"
     },
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-hdpi_ic_rewind_black_36dp.png.flat",
@@ -1612,6 +1888,10 @@
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-mdpi/morpheusfullscreentheme_scrubber_control_focused_holo.png"
     },
     {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-hdpi_ic_shuffle_variant_black_48dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-hdpi/ic_shuffle_variant_black_48dp.png"
+    },
+    {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-hdpi_ic_playlist_play_white_24dp.png.flat",
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-hdpi/ic_playlist_play_white_24dp.png"
     },
@@ -1622,6 +1902,10 @@
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/anim_abc_fade_in.xml.flat",
         "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6edda9f15b3b77cb433f6b3a871f150a/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-mdpi_ic_repeat_white_18dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-mdpi/ic_repeat_white_18dp.png"
     },
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_rewind_white_18dp.png.flat",
@@ -1672,8 +1956,20 @@
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xhdpi/ic_pause_black_36dp.png"
     },
     {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-mdpi_ic_repeat_white_24dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-mdpi/ic_repeat_white_24dp.png"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-hdpi_ic_shuffle_variant_grey600_24dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-hdpi/ic_shuffle_variant_grey600_24dp.png"
+    },
+    {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/layout-v16_notification_template_custom_big.xml.flat",
         "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/e2b2405faee9dd9e8eff98308ba4b37f/res/layout-v16/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/font_lato_bolditalic.ttf.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/font/lato_bolditalic.ttf"
     },
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_play_grey600_18dp.png.flat",
@@ -1696,6 +1992,10 @@
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/layout/album_item.xml"
     },
     {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_shuffle_variant_black_18dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxhdpi/ic_shuffle_variant_black_18dp.png"
+    },
+    {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-mdpi_ic_pause_black_18dp.png.flat",
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-mdpi/ic_pause_black_18dp.png"
     },
@@ -1714,6 +2014,10 @@
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-hdpi_ic_play_grey600_48dp.png.flat",
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-hdpi/ic_play_grey600_48dp.png"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_repeat_grey600_36dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxxhdpi/ic_repeat_grey600_36dp.png"
     },
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable_abc_ic_search_api_material.xml.flat",
@@ -1750,6 +2054,10 @@
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6edda9f15b3b77cb433f6b3a871f150a/res/drawable-ldrtl-mdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_shuffle_variant_black_18dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxxhdpi/ic_shuffle_variant_black_18dp.png"
     },
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
@@ -1836,6 +2144,10 @@
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxxhdpi/ic_dots_horizontal_grey600_18dp.png"
     },
     {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-mdpi_ic_shuffle_variant_black_36dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-mdpi/ic_shuffle_variant_black_36dp.png"
+    },
+    {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_heart_white_18dp.png.flat",
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxhdpi/ic_heart_white_18dp.png"
     },
@@ -1866,6 +2178,10 @@
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/layout_design_navigation_menu.xml.flat",
         "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/c67d05dafb10194636c714868ab7b60c/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xhdpi_ic_shuffle_variant_grey600_24dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xhdpi/ic_shuffle_variant_grey600_24dp.png"
     },
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
@@ -1944,6 +2260,14 @@
         "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6edda9f15b3b77cb433f6b3a871f150a/res/color-v23/abc_tint_spinner.xml"
     },
     {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-mdpi_ic_shuffle_variant_white_48dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-mdpi/ic_shuffle_variant_white_48dp.png"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-hdpi_ic_shuffle_variant_white_18dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-hdpi/ic_shuffle_variant_white_18dp.png"
+    },
+    {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-hdpi_ic_fast_forward_grey600_18dp.png.flat",
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-hdpi/ic_fast_forward_grey600_18dp.png"
     },
@@ -1964,6 +2288,10 @@
         "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/e2b2405faee9dd9e8eff98308ba4b37f/res/layout-v21/notification_template_custom_big.xml"
     },
     {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-hdpi_ic_repeat_grey600_48dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-hdpi/ic_repeat_grey600_48dp.png"
+    },
+    {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/color-v23_abc_btn_colored_text_material.xml.flat",
         "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6edda9f15b3b77cb433f6b3a871f150a/res/color-v23/abc_btn_colored_text_material.xml"
     },
@@ -1978,6 +2306,10 @@
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
         "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6edda9f15b3b77cb433f6b3a871f150a/res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/font_lato_medium.ttf.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/font/lato_medium.ttf"
     },
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-hdpi_ic_pause_grey600_36dp.png.flat",
@@ -2060,6 +2392,10 @@
         "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/c67d05dafb10194636c714868ab7b60c/res/layout/design_layout_snackbar.xml"
     },
     {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-hdpi_ic_repeat_grey600_36dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-hdpi/ic_repeat_grey600_36dp.png"
+    },
+    {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xhdpi_menubutton.png.flat",
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xhdpi/menubutton.png"
     },
@@ -2084,8 +2420,16 @@
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxxhdpi/ic_play_white_36dp.png"
     },
     {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_shuffle_variant_black_48dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxxhdpi/ic_shuffle_variant_black_48dp.png"
+    },
+    {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_dots_horizontal_black_18dp.png.flat",
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxxhdpi/ic_dots_horizontal_black_18dp.png"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-mdpi_ic_shuffle_variant_grey600_24dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-mdpi/ic_shuffle_variant_grey600_24dp.png"
     },
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
@@ -2114,6 +2458,10 @@
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_fast_forward_white_36dp.png.flat",
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxhdpi/ic_fast_forward_white_36dp.png"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_repeat_white_24dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxhdpi/ic_repeat_white_24dp.png"
     },
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-mdpi_ic_rewind_black_18dp.png.flat",
@@ -2168,6 +2516,10 @@
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-hdpi/ic_fast_forward_black_36dp.png"
     },
     {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-hdpi_ic_repeat_black_18dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-hdpi/ic_repeat_black_18dp.png"
+    },
+    {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_pressed_holo_light.9.png.flat",
         "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6edda9f15b3b77cb433f6b3a871f150a/res/drawable-hdpi-v4/abc_list_pressed_holo_light.9.png"
     },
@@ -2208,6 +2560,10 @@
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxhdpi/pausebutton.png"
     },
     {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-mdpi_ic_shuffle_variant_grey600_18dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-mdpi/ic_shuffle_variant_grey600_18dp.png"
+    },
+    {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-mdpi_ic_rewind_black_24dp.png.flat",
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-mdpi/ic_rewind_black_24dp.png"
     },
@@ -2236,8 +2592,20 @@
         "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6edda9f15b3b77cb433f6b3a871f150a/res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_015.png"
     },
     {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xhdpi_shuffle_variant.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/generated/res/pngs/debug/drawable-xhdpi/shuffle_variant.png"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/font_lato_mediumitalic.ttf.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/font/lato_mediumitalic.ttf"
+    },
+    {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_fast_forward_white_48dp.png.flat",
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxhdpi/ic_fast_forward_white_48dp.png"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xhdpi_ic_shuffle_variant_white_36dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xhdpi/ic_shuffle_variant_white_36dp.png"
     },
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
@@ -2246,6 +2614,14 @@
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_magnify_white_48dp.png.flat",
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxhdpi/ic_magnify_white_48dp.png"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-anydpi-v21_repeat.xml.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/generated/res/pngs/debug/drawable-anydpi-v21/repeat.xml"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_repeat_grey600_18dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxxhdpi/ic_repeat_grey600_18dp.png"
     },
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
@@ -2276,6 +2652,10 @@
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xhdpi/ic_fast_forward_black_48dp.png"
     },
     {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xhdpi_ic_shuffle_variant_white_18dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xhdpi/ic_shuffle_variant_white_18dp.png"
+    },
+    {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_rewind_grey600_18dp.png.flat",
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxhdpi/ic_rewind_grey600_18dp.png"
     },
@@ -2286,6 +2666,10 @@
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-hdpi_backwardbutton.png.flat",
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-hdpi/backwardbutton.png"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_shuffle_variant_black_36dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxxhdpi/ic_shuffle_variant_black_36dp.png"
     },
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/layout_notification_template_icon_group.xml.flat",
@@ -2400,8 +2784,16 @@
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxhdpi/menubutton.png"
     },
     {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-mdpi_ic_repeat_grey600_24dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-mdpi/ic_repeat_grey600_24dp.png"
+    },
+    {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
         "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6edda9f15b3b77cb433f6b3a871f150a/res/drawable-xhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_repeat_white_48dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxhdpi/ic_repeat_white_48dp.png"
     },
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xhdpi_ic_pause_grey600_48dp.png.flat",
@@ -2432,6 +2824,10 @@
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxhdpi/repeatbutton.png"
     },
     {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xhdpi_ic_shuffle_variant_white_48dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xhdpi/ic_shuffle_variant_white_48dp.png"
+    },
+    {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-hdpi_ic_pause_grey600_24dp.png.flat",
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-hdpi/ic_pause_grey600_24dp.png"
     },
@@ -2460,8 +2856,16 @@
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxhdpi/morpheusfullscreentheme_scrubber_control_disabled_holo.png"
     },
     {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_shuffle_variant_black_24dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxxhdpi/ic_shuffle_variant_black_24dp.png"
+    },
+    {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable_abc_dialog_material_background.xml.flat",
         "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6edda9f15b3b77cb433f6b3a871f150a/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-hdpi_ic_repeat_grey600_18dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-hdpi/ic_repeat_grey600_18dp.png"
     },
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/anim-v21_design_bottom_sheet_slide_in.xml.flat",
@@ -2488,8 +2892,16 @@
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxhdpi/morpheusfullscreentheme_scrubber_secondary_holo.9.png"
     },
     {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-mdpi_ic_shuffle_variant_grey600_36dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-mdpi/ic_shuffle_variant_grey600_36dp.png"
+    },
+    {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
         "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6edda9f15b3b77cb433f6b3a871f150a/res/drawable-xxxhdpi-v4/abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-hdpi_ic_repeat_black_48dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-hdpi/ic_repeat_black_48dp.png"
     },
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_rewind_white_36dp.png.flat",
@@ -2498,6 +2910,10 @@
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxxhdpi_dots_horizontal.png.flat",
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/generated/res/pngs/debug/drawable-xxxhdpi/dots_horizontal.png"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-mdpi_ic_shuffle_variant_grey600_48dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-mdpi/ic_shuffle_variant_grey600_48dp.png"
     },
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable_abc_ic_arrow_drop_right_black_24dp.xml.flat",
@@ -2532,6 +2948,10 @@
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-mdpi/ic_playlist_play_white_24dp.png"
     },
     {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-hdpi_ic_repeat_grey600_24dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-hdpi/ic_repeat_grey600_24dp.png"
+    },
+    {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/layout_design_navigation_item.xml.flat",
         "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/c67d05dafb10194636c714868ab7b60c/res/layout/design_navigation_item.xml"
     },
@@ -2552,6 +2972,10 @@
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/generated/res/pngs/debug/drawable-xxhdpi/rewind.png"
     },
     {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_repeat_white_36dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxhdpi/ic_repeat_white_36dp.png"
+    },
+    {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xhdpi_shufflebutton.png.flat",
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xhdpi/shufflebutton.png"
     },
@@ -2566,6 +2990,10 @@
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable_notification_icon_background.xml.flat",
         "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/e2b2405faee9dd9e8eff98308ba4b37f/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-mdpi_ic_repeat_grey600_18dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-mdpi/ic_repeat_grey600_18dp.png"
     },
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-mdpi_ic_pause_white_18dp.png.flat",
@@ -2684,6 +3112,14 @@
         "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6edda9f15b3b77cb433f6b3a871f150a/res/drawable-xxhdpi-v4/abc_text_select_handle_middle_mtrl_light.png"
     },
     {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_shuffle_variant_black_24dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxhdpi/ic_shuffle_variant_black_24dp.png"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/font_lato_regular.ttf.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/font/lato_regular.ttf"
+    },
+    {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
         "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6edda9f15b3b77cb433f6b3a871f150a/res/drawable-xxhdpi-v4/abc_list_pressed_holo_light.9.png"
     },
@@ -2724,6 +3160,10 @@
         "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6edda9f15b3b77cb433f6b3a871f150a/res/drawable-hdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
     },
     {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/font_app_font.xml.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/font/app_font.xml"
+    },
+    {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
         "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6edda9f15b3b77cb433f6b3a871f150a/res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
     },
@@ -2734,6 +3174,10 @@
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xhdpi_ic_fast_forward_black_18dp.png.flat",
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xhdpi/ic_fast_forward_black_18dp.png"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_repeat_grey600_48dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxxhdpi/ic_repeat_grey600_48dp.png"
     },
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xhdpi_rewind.png.flat",
@@ -2844,6 +3288,10 @@
         "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6edda9f15b3b77cb433f6b3a871f150a/res/drawable-mdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/font_lato_extrabold.ttf.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/font/lato_extrabold.ttf"
+    },
+    {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_rewind_black_24dp.png.flat",
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxhdpi/ic_rewind_black_24dp.png"
     },
@@ -2880,6 +3328,10 @@
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxhdpi/shufflebuttonoff.png"
     },
     {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_repeat_grey600_36dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxhdpi/ic_repeat_grey600_36dp.png"
+    },
+    {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_pause_black_48dp.png.flat",
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxhdpi/ic_pause_black_48dp.png"
     },
@@ -2908,6 +3360,10 @@
         "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6edda9f15b3b77cb433f6b3a871f150a/res/layout/abc_screen_simple_overlay_action_mode.xml"
     },
     {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-mdpi_ic_shuffle_variant_white_18dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-mdpi/ic_shuffle_variant_white_18dp.png"
+    },
+    {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_star_black_48dp.png.flat",
         "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6edda9f15b3b77cb433f6b3a871f150a/res/drawable-hdpi-v4/abc_ic_star_black_48dp.png"
     },
@@ -2932,20 +3388,28 @@
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxxhdpi/ic_heart_black_18dp.png"
     },
     {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/font_lato_light.ttf.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/font/lato_light.ttf"
+    },
+    {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_library_music_white_36dp.png.flat",
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxxhdpi/ic_library_music_white_36dp.png"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_repeat_grey600_24dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxxhdpi/ic_repeat_grey600_24dp.png"
     },
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-mdpi_ic_play_black_48dp.png.flat",
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-mdpi/ic_play_black_48dp.png"
     },
     {
-        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
-        "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6edda9f15b3b77cb433f6b3a871f150a/res/drawable-mdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
-    },
-    {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-hdpi_dots_horizontal.png.flat",
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/generated/res/pngs/debug/drawable-hdpi/dots_horizontal.png"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6edda9f15b3b77cb433f6b3a871f150a/res/drawable-mdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
     },
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/layout_select_dialog_singlechoice_material.xml.flat",
@@ -2956,8 +3420,16 @@
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxxhdpi/ic_heart_white_36dp.png"
     },
     {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_shuffle_variant_black_48dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxhdpi/ic_shuffle_variant_black_48dp.png"
+    },
+    {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-hdpi_ic_magnify_black_48dp.png.flat",
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-hdpi/ic_magnify_black_48dp.png"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-hdpi_ic_repeat_black_36dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-hdpi/ic_repeat_black_36dp.png"
     },
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xhdpi_morpheusfullscreentheme_scrubber_primary_holo.9.png.flat",
@@ -3004,12 +3476,24 @@
         "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6edda9f15b3b77cb433f6b3a871f150a/res/drawable/abc_list_selector_holo_dark.xml"
     },
     {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/font_lato_extralight.ttf.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/font/lato_extralight.ttf"
+    },
+    {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xhdpi_morpheusfullscreentheme_scrubber_control_focused_holo.png.flat",
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xhdpi/morpheusfullscreentheme_scrubber_control_focused_holo.png"
     },
     {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_repeat_white_18dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxhdpi/ic_repeat_white_18dp.png"
+    },
+    {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-mdpi_morpheusfullscreentheme_scrubber_primary_holo.9.png.flat",
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-mdpi/morpheusfullscreentheme_scrubber_primary_holo.9.png"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-hdpi_repeat.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/generated/res/pngs/debug/drawable-hdpi/repeat.png"
     },
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/layout_abc_popup_menu_item_layout.xml.flat",
@@ -3022,6 +3506,10 @@
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable_abc_seekbar_track_material.xml.flat",
         "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6edda9f15b3b77cb433f6b3a871f150a/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xhdpi_ic_repeat_white_36dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xhdpi/ic_repeat_white_36dp.png"
     },
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_pause_black_36dp.png.flat",
@@ -3050,6 +3538,10 @@
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
         "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6edda9f15b3b77cb433f6b3a871f150a/res/drawable-mdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-mdpi_ic_repeat_grey600_36dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-mdpi/ic_repeat_grey600_36dp.png"
     },
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-v23_abc_control_background_material.xml.flat",
@@ -3124,6 +3616,10 @@
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxhdpi/morpheusfullscreentheme_scrubber_primary_holo.9.png"
     },
     {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-mdpi_ic_shuffle_variant_white_36dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-mdpi/ic_shuffle_variant_white_36dp.png"
+    },
+    {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_heart_black_18dp.png.flat",
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxhdpi/ic_heart_black_18dp.png"
     },
@@ -3146,6 +3642,10 @@
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/anim_abc_slide_out_top.xml.flat",
         "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6edda9f15b3b77cb433f6b3a871f150a/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xhdpi_ic_repeat_white_48dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xhdpi/ic_repeat_white_48dp.png"
     },
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-mdpi_morpheusfullscreentheme_scrubber_track_holo_light.9.png.flat",
@@ -3174,6 +3674,10 @@
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-mdpi_ic_heart_grey600_36dp.png.flat",
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-mdpi/ic_heart_grey600_36dp.png"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-hdpi_ic_repeat_white_36dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-hdpi/ic_repeat_white_36dp.png"
     },
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/layout_notification_template_big_media.xml.flat",
@@ -3222,6 +3726,10 @@
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/layout_abc_list_menu_item_radio.xml.flat",
         "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6edda9f15b3b77cb433f6b3a871f150a/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xhdpi_ic_shuffle_variant_grey600_48dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xhdpi/ic_shuffle_variant_grey600_48dp.png"
     },
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
@@ -3308,6 +3816,10 @@
         "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6edda9f15b3b77cb433f6b3a871f150a/res/color-v23/abc_color_highlight_material.xml"
     },
     {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/font_lato_thin.ttf.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/font/lato_thin.ttf"
+    },
+    {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/layout_activity_now_playing.xml.flat",
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/layout/activity_now_playing.xml"
     },
@@ -3340,6 +3852,14 @@
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xhdpi/ic_rewind_white_36dp.png"
     },
     {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_repeat_grey600_18dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxhdpi/ic_repeat_grey600_18dp.png"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xhdpi_ic_repeat_grey600_24dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xhdpi/ic_repeat_grey600_24dp.png"
+    },
+    {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-v21_design_bottom_navigation_item_background.xml.flat",
         "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/c67d05dafb10194636c714868ab7b60c/res/drawable-v21/design_bottom_navigation_item_background.xml"
     },
@@ -3364,8 +3884,16 @@
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-hdpi/ic_play_grey600_18dp.png"
     },
     {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_shuffle_variant_white_48dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxxhdpi/ic_shuffle_variant_white_48dp.png"
+    },
+    {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-hdpi_ic_heart_white_36dp.png.flat",
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-hdpi/ic_heart_white_36dp.png"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-hdpi_ic_shuffle_variant_white_48dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-hdpi/ic_shuffle_variant_white_48dp.png"
     },
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
@@ -3404,8 +3932,16 @@
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-hdpi/ic_dots_horizontal_white_24dp.png"
     },
     {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxhdpi_repeat.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/generated/res/pngs/debug/drawable-xxhdpi/repeat.png"
+    },
+    {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/color_abc_primary_text_disable_only_material_light.xml.flat",
         "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6edda9f15b3b77cb433f6b3a871f150a/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-hdpi_ic_shuffle_variant_grey600_48dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-hdpi/ic_shuffle_variant_grey600_48dp.png"
     },
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-mdpi-v4_design_ic_visibility.png.flat",
@@ -3428,8 +3964,16 @@
         "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6edda9f15b3b77cb433f6b3a871f150a/res/drawable-xxhdpi-v4/abc_ic_star_black_16dp.png"
     },
     {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-mdpi_ic_repeat_white_48dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-mdpi/ic_repeat_white_48dp.png"
+    },
+    {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_play_grey600_36dp.png.flat",
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxhdpi/ic_play_grey600_36dp.png"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-mdpi_ic_repeat_white_36dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-mdpi/ic_repeat_white_36dp.png"
     },
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
@@ -3468,8 +4012,16 @@
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-mdpi/ic_library_music_white_24dp.png"
     },
     {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xhdpi_ic_repeat_grey600_18dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xhdpi/ic_repeat_grey600_18dp.png"
+    },
+    {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-hdpi_ic_rewind_white_24dp.png.flat",
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-hdpi/ic_rewind_white_24dp.png"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-mdpi_ic_shuffle_variant_white_24dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-mdpi/ic_shuffle_variant_white_24dp.png"
     },
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
@@ -3576,6 +4128,10 @@
         "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/e2b2405faee9dd9e8eff98308ba4b37f/res/drawable-hdpi-v4/notification_bg_normal.9.png"
     },
     {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/font_lato_extralightitalic.ttf.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/font/lato_extralightitalic.ttf"
+    },
+    {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-mdpi_ic_dots_horizontal_black_36dp.png.flat",
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-mdpi/ic_dots_horizontal_black_36dp.png"
     },
@@ -3584,12 +4140,20 @@
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-hdpi/albumartnone.jpg"
     },
     {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-hdpi_ic_shuffle_variant_white_36dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-hdpi/ic_shuffle_variant_white_36dp.png"
+    },
+    {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
         "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6edda9f15b3b77cb433f6b3a871f150a/res/drawable-mdpi-v4/abc_text_select_handle_left_mtrl_light.png"
     },
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
         "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6edda9f15b3b77cb433f6b3a871f150a/res/drawable-hdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/font_lato_italic.ttf.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/font/lato_italic.ttf"
     },
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/anim_abc_popup_exit.xml.flat",
@@ -3634,6 +4198,10 @@
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
         "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6edda9f15b3b77cb433f6b3a871f150a/res/drawable-mdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-mdpi_ic_repeat_grey600_48dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-mdpi/ic_repeat_grey600_48dp.png"
     },
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-anydpi-v21_fast_forward.xml.flat",
@@ -3748,6 +4316,10 @@
         "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6edda9f15b3b77cb433f6b3a871f150a/res/drawable-mdpi-v4/abc_list_pressed_holo_dark.9.png"
     },
     {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_shuffle_variant_black_36dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxhdpi/ic_shuffle_variant_black_36dp.png"
+    },
+    {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
         "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6edda9f15b3b77cb433f6b3a871f150a/res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_015.png"
     },
@@ -3758,6 +4330,10 @@
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/layout-sw600dp-v13_design_layout_snackbar.xml.flat",
         "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/c67d05dafb10194636c714868ab7b60c/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_repeat_black_36dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxhdpi/ic_repeat_black_36dp.png"
     },
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
@@ -3784,6 +4360,10 @@
         "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6edda9f15b3b77cb433f6b3a871f150a/res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-mdpi_repeat.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/generated/res/pngs/debug/drawable-mdpi/repeat.png"
+    },
+    {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_heart_white_48dp.png.flat",
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxxhdpi/ic_heart_white_48dp.png"
     },
@@ -3798,6 +4378,10 @@
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-ldrtl-xxxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6edda9f15b3b77cb433f6b3a871f150a/res/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_repeat_white_48dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxxhdpi/ic_repeat_white_48dp.png"
     },
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
@@ -3820,6 +4404,10 @@
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-hdpi/morpheusfullscreentheme_scrubber_control_focused_holo.png"
     },
     {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xhdpi_ic_shuffle_variant_black_48dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xhdpi/ic_shuffle_variant_black_48dp.png"
+    },
+    {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-hdpi_pausebutton.png.flat",
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-hdpi/pausebutton.png"
     },
@@ -3828,12 +4416,12 @@
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-mdpi/ic_fast_forward_white_24dp.png"
     },
     {
-        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/layout_abc_screen_toolbar.xml.flat",
-        "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6edda9f15b3b77cb433f6b3a871f150a/res/layout/abc_screen_toolbar.xml"
-    },
-    {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_rewind_grey600_36dp.png.flat",
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxxhdpi/ic_rewind_grey600_36dp.png"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/layout_abc_screen_toolbar.xml.flat",
+        "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6edda9f15b3b77cb433f6b3a871f150a/res/layout/abc_screen_toolbar.xml"
     },
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_dots_horizontal_black_18dp.png.flat",
@@ -3878,6 +4466,10 @@
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_fast_forward_black_36dp.png.flat",
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxhdpi/ic_fast_forward_black_36dp.png"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_shuffle_variant_white_48dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxhdpi/ic_shuffle_variant_white_48dp.png"
     },
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/color_abc_tint_btn_checkable.xml.flat",
@@ -3932,12 +4524,12 @@
         "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6edda9f15b3b77cb433f6b3a871f150a/res/drawable-hdpi-v4/abc_list_focused_holo.9.png"
     },
     {
-        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
-        "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6edda9f15b3b77cb433f6b3a871f150a/res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
-    },
-    {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_fast_forward_white_36dp.png.flat",
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxxhdpi/ic_fast_forward_white_36dp.png"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6edda9f15b3b77cb433f6b3a871f150a/res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-mdpi_ic_magnify_white_48dp.png.flat",
@@ -4012,6 +4604,10 @@
         "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6edda9f15b3b77cb433f6b3a871f150a/res/drawable-mdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
     },
     {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_repeat_black_36dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxxhdpi/ic_repeat_black_36dp.png"
+    },
+    {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-hdpi_ic_fast_forward_black_24dp.png.flat",
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-hdpi/ic_fast_forward_black_24dp.png"
     },
@@ -4056,6 +4652,10 @@
         "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6edda9f15b3b77cb433f6b3a871f150a/res/drawable-v21/abc_btn_colored_material.xml"
     },
     {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-hdpi_ic_repeat_black_24dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-hdpi/ic_repeat_black_24dp.png"
+    },
+    {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_pause_black_18dp.png.flat",
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxhdpi/ic_pause_black_18dp.png"
     },
@@ -4086,6 +4686,18 @@
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-mdpi_ic_magnify_grey600_36dp.png.flat",
         "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-mdpi/ic_magnify_grey600_36dp.png"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_shuffle_variant_grey600_48dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxhdpi/ic_shuffle_variant_grey600_48dp.png"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_repeat_grey600_24dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xxhdpi/ic_repeat_grey600_24dp.png"
+    },
+    {
+        "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xhdpi_ic_shuffle_variant_white_24dp.png.flat",
+        "source": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/res/drawable-xhdpi/ic_shuffle_variant_white_24dp.png"
     },
     {
         "merged": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",

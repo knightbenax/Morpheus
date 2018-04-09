@@ -39,6 +39,7 @@ import android.view.View;
 import android.view.Window;
 import android.view.WindowManager;
 import android.widget.Button;
+import android.widget.ImageButton;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.ListView;
@@ -76,7 +77,7 @@ public class NowPlayingActivity extends AppCompatActivity implements OnSeekCompl
     TextView album, artist, genre, song;
     LinearLayout playlistguy, libraryguy;
     ListView library;
-    Button playbutton;
+    ImageButton playbutton;
     RelativeLayout parent;
     int width, height;
     String filename = Environment.getExternalStorageDirectory().getPath() + "/Eargasm/01 Heaven.mp3";
@@ -525,7 +526,7 @@ public class NowPlayingActivity extends AppCompatActivity implements OnSeekCompl
         song = (TextView) findViewById(R.id.songname);
         parent = (RelativeLayout) findViewById(R.id.parentholder);
         library = (ListView) findViewById(R.id.library);
-        playbutton = (Button) findViewById(R.id.playbutton);
+        playbutton = (ImageButton) findViewById(R.id.playbutton);
         libraryguy = (LinearLayout)findViewById(R.id.libraryholder);
         roundSeekBar = (CircularSeekBar)findViewById(R.id.holoCircularProgressBar);
 

@@ -5,7 +5,7 @@ import android.graphics.Typeface;
 import android.util.AttributeSet;
 import android.widget.TextView;
 
-public class CustomTextViewBold extends TextView {
+public class CustomTextViewBold extends android.support.v7.widget.AppCompatTextView {
 
 	public CustomTextViewBold(Context context) {
 		super(context);
