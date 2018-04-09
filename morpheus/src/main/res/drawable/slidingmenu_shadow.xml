@@ -5,7 +5,7 @@
        
        android:startColor="@color/gray" /> -->
        
-       <solid android:color="@color/realwhite">
+       <solid android:color="@color/white">
            
        </solid>
 

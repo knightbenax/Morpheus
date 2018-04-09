@@ -1,0 +1,4 @@
+#Mon Apr 09 02:34:44 WAT 2018
+base.0=/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/transforms/dexMerger/debug/1
+path.0=classes.dex
+renamed.0=classes.dex

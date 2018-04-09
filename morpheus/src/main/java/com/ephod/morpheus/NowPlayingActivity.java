@@ -1,13 +1,5 @@
 package com.ephod.morpheus;
 
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.Comparator;
-import java.util.Random;
-
-import com.ephod.morpheus.MorpheusService.MusicBinder;
-import com.ephod.morpheus.util.SystemUiHider;
-
 import android.content.ComponentName;
 import android.content.ContentResolver;
 import android.content.ContentUris;
@@ -39,32 +31,33 @@ import android.os.Environment;
 import android.os.Handler;
 import android.os.IBinder;
 import android.os.PowerManager.WakeLock;
-import android.provider.MediaStore;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.util.TypedValue;
 import android.view.Gravity;
-import android.view.KeyEvent;
-import android.view.MenuItem;
 import android.view.View;
 import android.view.Window;
 import android.view.WindowManager;
-import android.widget.AdapterView;
-import android.widget.AdapterView.OnItemClickListener;
 import android.widget.Button;
+import android.widget.ImageButton;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.ListView;
 import android.widget.RelativeLayout;
-import android.widget.SeekBar;
-import android.widget.SeekBar.OnSeekBarChangeListener;
 import android.widget.TextView;
-//import com.
+
+import com.ephod.morpheus.MorpheusService.MusicBinder;
+import com.ephod.morpheus.util.SystemUiHider;
 import com.ephod.morpheus.utils.TunnelPlayerWorkaround;
 import com.ephod.morpheus.visualizer.VisualizerView;
 import com.ephod.morpheus.visualizer.renderer.DotsRenderer;
-import com.jeremyfeinstein.slidingmenu.lib.SlidingMenu;
-import com.jeremyfeinstein.slidingmenu.lib.app.SlidingActivity;
+
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.Comparator;
+import java.util.Random;
+
+//import com.
 
 /**
  * An example full-screen activity that shows and hides the system UI (i.e.
@@ -84,7 +77,7 @@ public class NowPlayingActivity extends AppCompatActivity implements OnSeekCompl
     TextView album, artist, genre, song;
     LinearLayout playlistguy, libraryguy;
     ListView library;
-    Button playbutton;
+    ImageButton playbutton;
     RelativeLayout parent;
     int width, height;
     String filename = Environment.getExternalStorageDirectory().getPath() + "/Eargasm/01 Heaven.mp3";
@@ -102,7 +95,7 @@ public class NowPlayingActivity extends AppCompatActivity implements OnSeekCompl
 	//private SlidingMenu slidingMenu;
 	
 	public Handler handler = new Handler();
-	private SlidingMenu slidingMenu;
+
 		
 	public ArrayList<Song> songList;
 	private MorpheusService musicSrv;
@@ -388,32 +381,8 @@ public class NowPlayingActivity extends AppCompatActivity implements OnSeekCompl
 	
 	@Override
 	public void onBackPressed(){
-		if(slidingMenu.isMenuShowing()){
-			slidingMenu.toggle(true);
-		} else {
-			super.onBackPressed();
-		}
+		super.onBackPressed();
 	}
-	
-	@Override
-	public boolean onKeyDown(int keyCode, KeyEvent event){
-		if(keyCode == KeyEvent.KEYCODE_MENU){
-			this.slidingMenu.toggle(true);
-			return true;
-		}
-		return super.onKeyDown(keyCode, event);
-	}
-	
-	@Override
-    public boolean onOptionsItemSelected(MenuItem item) {
-        switch (item.getItemId()) {
-        	case android.R.id.home:
-        		this.slidingMenu.toggle();
-            return true;
-        	default:
-        		return super.onOptionsItemSelected(item);
-        }
-    }
 
     @Override
     protected void onResume()
@@ -557,7 +526,7 @@ public class NowPlayingActivity extends AppCompatActivity implements OnSeekCompl
         song = (TextView) findViewById(R.id.songname);
         parent = (RelativeLayout) findViewById(R.id.parentholder);
         library = (ListView) findViewById(R.id.library);
-        playbutton = (Button) findViewById(R.id.playbutton);
+        playbutton = (ImageButton) findViewById(R.id.playbutton);
         libraryguy = (LinearLayout)findViewById(R.id.libraryholder);
         roundSeekBar = (CircularSeekBar)findViewById(R.id.holoCircularProgressBar);
 

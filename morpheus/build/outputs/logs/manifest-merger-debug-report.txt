@@ -1,6 +1,28 @@
 -- Merging decision tree log ---
 manifest
 ADDED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/AndroidManifest.xml:2:1-44:12
+MERGED from [com.android.databinding:adapters:3.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/adapters-3.1.0.aar/fd2b4b427887386186a5256f80b5835c/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.databinding:library:3.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/library-3.1.0.aar/5c4862b50993fee9189ec585be857416/AndroidManifest.xml:17:1-24:12
+MERGED from [com.makeramen:roundedimageview:2.3.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/roundedimageview-2.3.0.aar/9ac018ea3564ae2efff62ea19468a3c3/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:design:26.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/c67d05dafb10194636c714868ab7b60c/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6edda9f15b3b77cb433f6b3a871f150a/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:transition:26.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/fd1475987cfaf2a23c0f9910233d4540/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/ad3aeffb55083110783d512ff6e91692/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/a7bf9c5ef263602fc3e1a8c3c86c6b00/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/48de1d2b1cfb764f85f1a396bb5169ef/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/a46b0dea05bd9cbcf2653b5a6a207d20/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/e49dc8c69527e71e6e85054eb6d7a993/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/d004e37f17d9eb870243fd7fc30368d1/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/cddbaf2dd3308e54bda197d1a78d655f/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/2ed7580d91fd9525e3cec628f4564dc8/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/e2b2405faee9dd9e8eff98308ba4b37f/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/6e7458ada23333e3369b15e59a31d8c6/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/AndroidManifest.xml:2:1-44:12
 	package
 		ADDED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/AndroidManifest.xml:3:5-33
 		INJECTED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/AndroidManifest.xml
@@ -9,12 +31,12 @@ ADDED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/m
 		ADDED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/AndroidManifest.xml:6:5-30
 		INJECTED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/AndroidManifest.xml
 		INJECTED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/AndroidManifest.xml:2:11-69
 	android:versionCode
 		ADDED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/AndroidManifest.xml:4:5-28
 		INJECTED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/AndroidManifest.xml
 		INJECTED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/AndroidManifest.xml
-	xmlns:android
-		ADDED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/AndroidManifest.xml:2:11-69
 	android:installLocation
 		ADDED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/AndroidManifest.xml:5:5-35
 uses-permission#android.permission.WAKE_LOCK
@@ -35,23 +57,44 @@ ADDED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/m
 		ADDED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/AndroidManifest.xml:11:22-68
 uses-sdk
 ADDED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/AndroidManifest.xml:13:5-15:41
-MERGED from [Morpheus:library:unspecified] /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/library/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
-MERGED from [com.makeramen:roundedimageview:2.3.0] /Users/knightbenax/.android/build-cache/3774b465d32353b98ff93d5995c07f169597206b/output/AndroidManifest.xml:7:5-43
-MERGED from [com.android.support:design:26.1.0] /Users/knightbenax/.android/build-cache/e30b626306207c43d88c041beb953e7917ec1e20/output/AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/knightbenax/.android/build-cache/13dfd5a5f3f87168dd8f074554741577a50c41e2/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:26.1.0] /Users/knightbenax/.android/build-cache/fd0cd7ab09a62a053df734b03d4df4600e0ee16c/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/knightbenax/.android/build-cache/2dc13d82337b3c4474770cdbc2127431bb3dae42/output/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:26.1.0] /Users/knightbenax/.android/build-cache/aa42639425bd21fc829d7fc894d46e540ea75a01/output/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-media-compat:26.1.0] /Users/knightbenax/.android/build-cache/b18b17f403f02ec896ff8f72a084b090603a6927/output/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-fragment:26.1.0] /Users/knightbenax/.android/build-cache/dcd7b4fa118394103be0ef1860ae4a0f9f3eaeaa/output/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-utils:26.1.0] /Users/knightbenax/.android/build-cache/87c7c640c45a1fdceaabf58ec5913629e03392f0/output/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/knightbenax/.android/build-cache/d5a2af4a161721d275b6995afdd94cd30b01f132/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/knightbenax/.android/build-cache/bb2afe9825bb72fe0720946b1aeb4ba14ad90684/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:26.1.0] /Users/knightbenax/.android/build-cache/20b443bb3543bf4ee9f522586cb3067e8c0455de/output/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:26.1.0] /Users/knightbenax/.android/build-cache/8ab5cd42f5d06fdf8a057fe7f896d5594585c880/output/AndroidManifest.xml:21:5-23:58
-MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/knightbenax/.android/build-cache/06c4966c6c53abfc6644ec39e2ea98c2188a4c17/output/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/AndroidManifest.xml:13:5-15:41
+INJECTED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/AndroidManifest.xml:13:5-15:41
+MERGED from [com.android.databinding:adapters:3.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/adapters-3.1.0.aar/fd2b4b427887386186a5256f80b5835c/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:adapters:3.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/adapters-3.1.0.aar/fd2b4b427887386186a5256f80b5835c/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/library-3.1.0.aar/5c4862b50993fee9189ec585be857416/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/library-3.1.0.aar/5c4862b50993fee9189ec585be857416/AndroidManifest.xml:22:5-44
+MERGED from [com.makeramen:roundedimageview:2.3.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/roundedimageview-2.3.0.aar/9ac018ea3564ae2efff62ea19468a3c3/AndroidManifest.xml:7:5-43
+MERGED from [com.makeramen:roundedimageview:2.3.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/roundedimageview-2.3.0.aar/9ac018ea3564ae2efff62ea19468a3c3/AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:design:26.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/c67d05dafb10194636c714868ab7b60c/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/c67d05dafb10194636c714868ab7b60c/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6edda9f15b3b77cb433f6b3a871f150a/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6edda9f15b3b77cb433f6b3a871f150a/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:transition:26.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/fd1475987cfaf2a23c0f9910233d4540/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/fd1475987cfaf2a23c0f9910233d4540/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/ad3aeffb55083110783d512ff6e91692/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/ad3aeffb55083110783d512ff6e91692/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/a7bf9c5ef263602fc3e1a8c3c86c6b00/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/a7bf9c5ef263602fc3e1a8c3c86c6b00/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/48de1d2b1cfb764f85f1a396bb5169ef/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/48de1d2b1cfb764f85f1a396bb5169ef/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/a46b0dea05bd9cbcf2653b5a6a207d20/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/a46b0dea05bd9cbcf2653b5a6a207d20/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/e49dc8c69527e71e6e85054eb6d7a993/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/e49dc8c69527e71e6e85054eb6d7a993/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/d004e37f17d9eb870243fd7fc30368d1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/d004e37f17d9eb870243fd7fc30368d1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/cddbaf2dd3308e54bda197d1a78d655f/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/cddbaf2dd3308e54bda197d1a78d655f/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/2ed7580d91fd9525e3cec628f4564dc8/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/2ed7580d91fd9525e3cec628f4564dc8/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/e2b2405faee9dd9e8eff98308ba4b37f/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/e2b2405faee9dd9e8eff98308ba4b37f/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/6e7458ada23333e3369b15e59a31d8c6/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/6e7458ada23333e3369b15e59a31d8c6/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/AndroidManifest.xml:13:5-15:41
+INJECTED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/AndroidManifest.xml:13:5-15:41
 	tools:overrideLibrary
-		ADDED from [com.android.support:design:26.1.0] /Users/knightbenax/.android/build-cache/e30b626306207c43d88c041beb953e7917ec1e20/output/AndroidManifest.xml:23:9-59
+		ADDED from [com.android.support:design:26.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/c67d05dafb10194636c714868ab7b60c/AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
 		ADDED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/AndroidManifest.xml:15:9-38
 		INJECTED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/AndroidManifest.xml
@@ -62,25 +105,36 @@ MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/knightbenax/.android/b
 		INJECTED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/AndroidManifest.xml
 application
 ADDED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/AndroidManifest.xml:17:5-42:19
-MERGED from [com.android.support:design:26.1.0] /Users/knightbenax/.android/build-cache/e30b626306207c43d88c041beb953e7917ec1e20/output/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/knightbenax/.android/build-cache/13dfd5a5f3f87168dd8f074554741577a50c41e2/output/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:transition:26.1.0] /Users/knightbenax/.android/build-cache/fd0cd7ab09a62a053df734b03d4df4600e0ee16c/output/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/knightbenax/.android/build-cache/2dc13d82337b3c4474770cdbc2127431bb3dae42/output/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-v4:26.1.0] /Users/knightbenax/.android/build-cache/aa42639425bd21fc829d7fc894d46e540ea75a01/output/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:26.1.0] /Users/knightbenax/.android/build-cache/b18b17f403f02ec896ff8f72a084b090603a6927/output/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-fragment:26.1.0] /Users/knightbenax/.android/build-cache/dcd7b4fa118394103be0ef1860ae4a0f9f3eaeaa/output/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-utils:26.1.0] /Users/knightbenax/.android/build-cache/87c7c640c45a1fdceaabf58ec5913629e03392f0/output/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/knightbenax/.android/build-cache/d5a2af4a161721d275b6995afdd94cd30b01f132/output/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/knightbenax/.android/build-cache/bb2afe9825bb72fe0720946b1aeb4ba14ad90684/output/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-core-ui:26.1.0] /Users/knightbenax/.android/build-cache/20b443bb3543bf4ee9f522586cb3067e8c0455de/output/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-compat:26.1.0] /Users/knightbenax/.android/build-cache/8ab5cd42f5d06fdf8a057fe7f896d5594585c880/output/AndroidManifest.xml:25:5-29:19
-MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/knightbenax/.android/build-cache/06c4966c6c53abfc6644ec39e2ea98c2188a4c17/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.android.support:design:26.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/c67d05dafb10194636c714868ab7b60c/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/c67d05dafb10194636c714868ab7b60c/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6edda9f15b3b77cb433f6b3a871f150a/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6edda9f15b3b77cb433f6b3a871f150a/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:transition:26.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/fd1475987cfaf2a23c0f9910233d4540/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/fd1475987cfaf2a23c0f9910233d4540/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/ad3aeffb55083110783d512ff6e91692/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/ad3aeffb55083110783d512ff6e91692/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/a7bf9c5ef263602fc3e1a8c3c86c6b00/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/a7bf9c5ef263602fc3e1a8c3c86c6b00/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/48de1d2b1cfb764f85f1a396bb5169ef/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/48de1d2b1cfb764f85f1a396bb5169ef/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/a46b0dea05bd9cbcf2653b5a6a207d20/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/a46b0dea05bd9cbcf2653b5a6a207d20/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/e49dc8c69527e71e6e85054eb6d7a993/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/e49dc8c69527e71e6e85054eb6d7a993/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/d004e37f17d9eb870243fd7fc30368d1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/d004e37f17d9eb870243fd7fc30368d1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/cddbaf2dd3308e54bda197d1a78d655f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/cddbaf2dd3308e54bda197d1a78d655f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/2ed7580d91fd9525e3cec628f4564dc8/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/2ed7580d91fd9525e3cec628f4564dc8/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/e2b2405faee9dd9e8eff98308ba4b37f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/e2b2405faee9dd9e8eff98308ba4b37f/AndroidManifest.xml:25:5-29:19
 	android:label
 		ADDED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/AndroidManifest.xml:20:9-41
-	android:allowBackup
-		ADDED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/AndroidManifest.xml:18:9-35
 	android:icon
 		ADDED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/AndroidManifest.xml:19:9-45
+	android:allowBackup
+		ADDED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/AndroidManifest.xml:18:9-35
 	android:theme
 		ADDED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/AndroidManifest.xml:22:9-67
 activity#com.ephod.morpheus.NowPlayingActivity
@@ -95,7 +149,7 @@ ADDED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/m
 		ADDED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/AndroidManifest.xml:25:13-74
 	android:name
 		ADDED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/AndroidManifest.xml:24:13-65
-intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
 ADDED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/AndroidManifest.xml:29:13-33:29
 action#android.intent.action.MAIN
 ADDED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/AndroidManifest.xml:30:17-69
@@ -116,25 +170,30 @@ ADDED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/m
 	android:name
 		ADDED from /Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/src/main/AndroidManifest.xml:39:13-60
 meta-data#android.support.VERSION
-ADDED from [com.android.support:design:26.1.0] /Users/knightbenax/.android/build-cache/e30b626306207c43d88c041beb953e7917ec1e20/output/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/knightbenax/.android/build-cache/13dfd5a5f3f87168dd8f074554741577a50c41e2/output/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:transition:26.1.0] /Users/knightbenax/.android/build-cache/fd0cd7ab09a62a053df734b03d4df4600e0ee16c/output/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/knightbenax/.android/build-cache/2dc13d82337b3c4474770cdbc2127431bb3dae42/output/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-v4:26.1.0] /Users/knightbenax/.android/build-cache/aa42639425bd21fc829d7fc894d46e540ea75a01/output/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-media-compat:26.1.0] /Users/knightbenax/.android/build-cache/b18b17f403f02ec896ff8f72a084b090603a6927/output/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-fragment:26.1.0] /Users/knightbenax/.android/build-cache/dcd7b4fa118394103be0ef1860ae4a0f9f3eaeaa/output/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-utils:26.1.0] /Users/knightbenax/.android/build-cache/87c7c640c45a1fdceaabf58ec5913629e03392f0/output/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/knightbenax/.android/build-cache/d5a2af4a161721d275b6995afdd94cd30b01f132/output/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/knightbenax/.android/build-cache/bb2afe9825bb72fe0720946b1aeb4ba14ad90684/output/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-core-ui:26.1.0] /Users/knightbenax/.android/build-cache/20b443bb3543bf4ee9f522586cb3067e8c0455de/output/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-compat:26.1.0] /Users/knightbenax/.android/build-cache/8ab5cd42f5d06fdf8a057fe7f896d5594585c880/output/AndroidManifest.xml:26:9-28:38
+ADDED from [com.android.support:design:26.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/c67d05dafb10194636c714868ab7b60c/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6edda9f15b3b77cb433f6b3a871f150a/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6edda9f15b3b77cb433f6b3a871f150a/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:transition:26.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/fd1475987cfaf2a23c0f9910233d4540/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/fd1475987cfaf2a23c0f9910233d4540/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/ad3aeffb55083110783d512ff6e91692/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/ad3aeffb55083110783d512ff6e91692/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/a7bf9c5ef263602fc3e1a8c3c86c6b00/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/a7bf9c5ef263602fc3e1a8c3c86c6b00/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/48de1d2b1cfb764f85f1a396bb5169ef/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/48de1d2b1cfb764f85f1a396bb5169ef/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/a46b0dea05bd9cbcf2653b5a6a207d20/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/a46b0dea05bd9cbcf2653b5a6a207d20/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/e49dc8c69527e71e6e85054eb6d7a993/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/e49dc8c69527e71e6e85054eb6d7a993/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/d004e37f17d9eb870243fd7fc30368d1/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/d004e37f17d9eb870243fd7fc30368d1/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/cddbaf2dd3308e54bda197d1a78d655f/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/cddbaf2dd3308e54bda197d1a78d655f/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/2ed7580d91fd9525e3cec628f4564dc8/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/2ed7580d91fd9525e3cec628f4564dc8/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/e2b2405faee9dd9e8eff98308ba4b37f/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/e2b2405faee9dd9e8eff98308ba4b37f/AndroidManifest.xml:26:9-28:38
 	android:value
-		ADDED from [com.android.support:design:26.1.0] /Users/knightbenax/.android/build-cache/e30b626306207c43d88c041beb953e7917ec1e20/output/AndroidManifest.xml:28:13-35
+		ADDED from [com.android.support:design:26.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/c67d05dafb10194636c714868ab7b60c/AndroidManifest.xml:28:13-35
 	android:name
-		ADDED from [com.android.support:design:26.1.0] /Users/knightbenax/.android/build-cache/e30b626306207c43d88c041beb953e7917ec1e20/output/AndroidManifest.xml:27:13-51
-meta-data#android.arch.lifecycle.VERSION
-ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/knightbenax/.android/build-cache/06c4966c6c53abfc6644ec39e2ea98c2188a4c17/output/AndroidManifest.xml:25:9-27:47
-	android:value
-		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/knightbenax/.android/build-cache/06c4966c6c53abfc6644ec39e2ea98c2188a4c17/output/AndroidManifest.xml:27:13-44
-	android:name
-		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/knightbenax/.android/build-cache/06c4966c6c53abfc6644ec39e2ea98c2188a4c17/output/AndroidManifest.xml:26:13-58
+		ADDED from [com.android.support:design:26.1.0] /Users/knightbenax/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/c67d05dafb10194636c714868ab7b60c/AndroidManifest.xml:27:13-51
