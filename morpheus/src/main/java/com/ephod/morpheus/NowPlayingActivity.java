@@ -47,6 +47,7 @@ import android.widget.RelativeLayout;
 import android.widget.TextView;
 
 import com.ephod.morpheus.MorpheusService.MusicBinder;
+import com.ephod.morpheus.databinding.ActivityNowPlayingBinding;
 import com.ephod.morpheus.util.SystemUiHider;
 import com.ephod.morpheus.utils.TunnelPlayerWorkaround;
 import com.ephod.morpheus.visualizer.VisualizerView;
@@ -92,7 +93,7 @@ public class NowPlayingActivity extends AppCompatActivity implements OnSeekCompl
     int px = 0, pxx = 0;
     int mediaPos;
 	int mediaMax;
-	//private SlidingMenu slidingMenu;
+	ActivityNowPlayingBinding binding;
 	
 	public Handler handler = new Handler();
 
@@ -113,21 +114,13 @@ public class NowPlayingActivity extends AppCompatActivity implements OnSeekCompl
 		
 		rootView = getWindow().getDecorView();
 		
-		pausebg = BitmapFactory.decodeResource(getResources(), R.drawable.pausebutton);
+		pausebg = BitmapFactory.decodeResource(getResources(), R.drawable.ic_pause_white_48dp);
 		pausebgdrawable = new BitmapDrawable(pausebg);
 		
-		playbg = BitmapFactory.decodeResource(getResources(), R.drawable.playbutton);
+		playbg = BitmapFactory.decodeResource(getResources(), R.drawable.ic_play_white_48dp);
 		playbgdrawable = new BitmapDrawable(playbg);
 		
 		stuffToSetUp();
-		//hideBar();
-
-
-		
-	    //setVolumeControlStream(AudioManager.STREAM_MUSIC);
-	    //PowerManager powerManager = (PowerManager) getSystemService(Context.POWER_SERVICE);
-	    //wakeLock = powerManager.newWakeLock(PowerManager.FULL_WAKE_LOCK, "Morpheus");
-	    //createSlidingMenu();
 	    songList = new ArrayList<Song>();
 	    getSongList();
 
@@ -355,30 +348,6 @@ public class NowPlayingActivity extends AppCompatActivity implements OnSeekCompl
 	}
 	
 	
-	/*private void createSlidingMenu(){
-		slidingMenu = getSlidingMenu();//new SlidingMenu(this);
-		
-		slidingMenu.setMode(SlidingMenu.LEFT_RIGHT);
-		slidingMenu.setSecondaryMenu(R.layout.playlist);
-        slidingMenu.setTouchmodeMarginThreshold(200);
-		slidingMenu.setTouchModeAbove(SlidingMenu.TOUCHMODE_MARGIN);
-        slidingMenu.setTouchModeBehind(SlidingMenu.TOUCHMODE_MARGIN) ;
-
-
-		//slidingMenu.setShadowWidthRes(R.dimen.slidingmenu_shadow_width);
-        //slidingMenu.setShadowDrawable(R.drawable.slidingmenu_shadow);
-        slidingMenu.setBehindOffsetRes(R.dimen.slidingmenu_offset);
-        slidingMenu.setFadeEnabled(true);
-        slidingMenu.setFadeDegree(0.85f);
-        //slidingMenu.setSecondaryShadowDrawable(R.drawable.slidingmenu_shadow_right);
-        //slidingMenu.attachToActivity(this, SlidingMenu.SLIDING_CONTENT);
-        //slidingMenu.setMenu(R.layout.playlist);
-        
-        
-        //getActionBar().setDisplayHomeAsUpEnabled(true);
-	} */
-	
-	
 	@Override
 	public void onBackPressed(){
 		super.onBackPressed();
@@ -513,12 +482,7 @@ public class NowPlayingActivity extends AppCompatActivity implements OnSeekCompl
 	
 	
 	public void stuffToSetUp(){
-		
-		//WindowManager.LayoutParams layoutParams = getWindow().getAttributes();
-    	//getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN, WindowManager.LayoutParams.FLAG_FULLSCREEN);
-    	
-    	//layoutParams.screenBrightness = 1f;
-    	//getWindow().setAttributes(layoutParams);
+
         mVisualizerView = (VisualizerView) findViewById(R.id.visualizerView);
     	album_art = (ImageView) findViewById(R.id.albumart);
         album = (TextView) findViewById(R.id.albumname);

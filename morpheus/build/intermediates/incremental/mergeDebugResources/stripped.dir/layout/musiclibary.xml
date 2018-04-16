@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/black" >
+    
+    
+      <LinearLayout android:layout_width="match_parent"
+    	android:layout_height="wrap_content"
+    	android:orientation="horizontal"
+    	android:gravity="center_vertical"
+    	android:background="@color/white">
+    	
+                
+         <com.ephod.morpheus.CustomTextViewBold
+             android:id="@+id/sectionname"
+             android:layout_width="0dip"
+             android:layout_height="wrap_content"
+             android:layout_weight="1"
+             android:text="@string/musiclibrary"
+             android:textColor="#000"
+             android:textSize="18sp"
+             android:paddingLeft="10dp"
+             android:paddingTop="5dp"
+             android:paddingBottom="5dp"
+             android:gravity="left"
+              />
+         
+         <Button
+        android:id="@+id/menubutton"
+        android:layout_width="45dp"
+        android:layout_height="45dp"
+        android:onClick="showAbout"
+        android:background="@drawable/menubuttonflip"
+        
+         
+         />
+        
+    </LinearLayout>
+    
+     <LinearLayout android:layout_width="fill_parent"
+    	android:layout_height="fill_parent"
+    	android:orientation="vertical"
+    	android:id="@+id/libraryholder" >
+ 
+    <ListView android:id="@+id/library"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:smoothScrollbar="true"
+     android:persistentDrawingCache="scrolling"
+    
+        
+        android:dividerHeight="0.008dp"
+        android:divider="#000000"
+        
+         />
+ 
+</LinearLayout>
+      
+
+</LinearLayout>
