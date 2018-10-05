@@ -4,7 +4,17 @@
             "outputFile": "/Users/knightbenax/Desktop/Metro Station/Apps/Morpheus/morpheus/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
             "map": [
                 {
-                    "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/c67d05dafb10194636c714868ab7b60c/res/values-land/values-land.xml",
+                    "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/1ad922c79b1380df30d4129e602e25e5/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
+                    }
+                },
+                {
+                    "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/8eca991c5ad8870b3d46d846c8615cfc/res/values-land/values-land.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -20,16 +30,6 @@
                         "endLines": "9",
                         "endColumns": "12",
                         "endOffsets": "505"
-                    }
-                },
-                {
-                    "source": "/Users/knightbenax/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6edda9f15b3b77cb433f6b3a871f150a/res/values-land/values-land.xml",
-                    "from": {
-                        "startLines": "2,3,4,5",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,125,189,260",
-                        "endColumns": "69,63,70,67",
-                        "endOffsets": "120,184,255,323"
                     }
                 }
             ]

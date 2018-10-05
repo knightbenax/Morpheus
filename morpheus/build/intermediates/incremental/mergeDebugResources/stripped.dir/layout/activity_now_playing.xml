@@ -74,22 +74,26 @@
                 android:layout_height="0dp"
                 android:layout_weight="1">
 
-
-
-                    <com.makeramen.roundedimageview.RoundedImageView
-                        xmlns:app="http://schemas.android.com/apk/res-auto"
+                    <android.support.v7.widget.CardView
                         android:layout_width="match_parent"
-                        android:layout_height="match_parent"
-                        android:id="@+id/albumart"
-                        android:scaleType="centerInside"
-                        app:riv_corner_radius="4dip"
                         android:maxWidth="@dimen/size_480"
-                        android:elevation="@dimen/size_8"
+                        app:elevation="@dimen/size_8"
                         android:maxHeight="@dimen/size_480"
-                        app:riv_mutate_background="true" />
+                        app:cardBackgroundColor="@null"
+                        android:layout_height="match_parent">
+
+                        <com.makeramen.roundedimageview.RoundedImageView
+                            xmlns:app="http://schemas.android.com/apk/res-auto"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:id="@+id/albumart"
+                            android:scaleType="centerInside"
+                            app:riv_corner_radius="4dip"
+                            app:riv_mutate_background="true" />
+
+                    </android.support.v7.widget.CardView>
 
             </LinearLayout>
-
 
             <LinearLayout
                 android:id="@+id/songdetails"
